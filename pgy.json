@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "fan",
+          "network" : "admob",
           "face_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "face_interstital": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "face_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
