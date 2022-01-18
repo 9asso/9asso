@@ -11,6 +11,13 @@
           
           "admob_banner": "ca-app-pub-3940256099942544/6300978111",
           "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
+       
+          "int_back": "false",
+          "int_IntroA": "false",
+          "int_IntroB": "true",
+          "int_MainMenu": "false",
+          "int_VideoPlayerContent": "false",
+          "int_VideoProjectorContent": "false",
           
           "ironsource_key": "12c959ebd"
         }
