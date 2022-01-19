@@ -1,0 +1,33 @@
+{
+    "data" : [
+        {
+            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
+            "img" : "https://www.pockettactics.com/wp-content/uploads/2020/07/Toca-Life-World-APK-1200x675.jpg",
+            "part1" : "Lorem ipsum 1",
+            "part2" : "Lorem ipsum 2",
+            "part3" : "Lorem ipsum 3"
+        },
+        {
+            "name" : "Toca Life World APK guide",
+            "img" : "https://d28ipuewd7cdcq.cloudfront.net/assets/article/2019/07/11/toca-life-world-amusement-park_feature.png",
+            "part1" : "Lorem ipsum 1",
+            "part2" : "Lorem ipsum 2",
+            "part3" : "Lorem ipsum 3"
+        },
+        {
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img" : "https://d28ipuewd7cdcq.cloudfront.net/assets/article/2020/01/17/toca-life-world-dentist_feature.png",
+            "part1" : "Lorem ipsum 1",
+            "part2" : "Lorem ipsum 2",
+            "part3" : "Lorem ipsum 3"
+        },
+        {
+            "name" : "Explore the World of Toca Boca - GeekDad",
+            "img" : "https://149455152.v2.pressablecdn.com/wp-content/uploads/2017/12/TocaPets.jpg",
+            "part1" : "Lorem ipsum 1",
+            "part2" : "Lorem ipsum 2",
+            "part3" : "Lorem ipsum 3"
+        }
+      ]
+    }
+  
