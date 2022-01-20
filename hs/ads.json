@@ -3,7 +3,7 @@
         {
           "activate_ads" : "true",
             
-          "network" : "is+max",
+          "network" : "admob",
             
           "max_native_small": "9500fa8a07a05986",
           "max_native_manual": "617157205279ba5a",
