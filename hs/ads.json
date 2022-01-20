@@ -2,6 +2,7 @@
     "ads" : [
         {
           "activate_ads" : "true",
+            
           "network" : "is+max",
             
           "max_native_small": "9500fa8a07a05986",
