@@ -9,11 +9,6 @@
           "max_native_small": "9500fa8a07a05986",
           "max_native_manual": "617157205279ba5a",
 
-          "face_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "face_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "face_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-
           "admob_banner": "ca-app-pub-3940256099942544/6300978111",
           "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
           "admob_native": "ca-app-pub-3940256099942544/2247696110",
