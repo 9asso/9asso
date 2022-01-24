@@ -4,7 +4,8 @@
           "activate_ads" : "true",
             
           "network" : "is+max",
-            
+          
+          "max_ban": "cb4b439fcb19efc5",
           "max_native_small": "9500fa8a07a05986",
           "max_native_manual": "617157205279ba5a",
 
