@@ -1,0 +1,24 @@
+{
+    "data" : [
+        {
+          "activate_ads" : "true",
+            
+          "network" : "admob",
+          
+          "max_ban": "cb4b439fcb19efc5",
+          "max_native": "617157205279ba5a",
+
+          "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+          "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+          "admob_native": "ca-app-pub-3940256099942544/2247696110",
+
+          "ironsource_key": "13199493d",
+
+          "name" : "Poppy Rope",
+          "picture" : "https://9asso.github.io/poppycall/poppypicture.png",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "stories" : "https://t7.rbxcdn.com/98d5e59f4052bce4c4e925b8e8910142;https://gameplaymania.com/wp-content/uploads/2021/11/poppy-playtime-gameplaymania-05.jpg;https://play-lh.googleusercontent.com/SCDOiyI6XwpK9tYxkqZMrLbC-kU9YS5h-xj_ie8Ql0OhIzwblhLEIJuJxmhY7lZp91m3;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjzkeWzVDpZ2UBuBWH2nvEnPZNoyLjIG6DVqxJ-8VRpO-FAj7YryhxgbdX3D-F1gSCqc8&usqp=CAU;https://image.winudf.com/v2/image1/Y29tLml0c3RvcmFnZS5wb3BweS5wbGF5dGltZS53YWxrdGhyb3VnaF9zY3JlZW5fNF8xNjM1NDM5NTg2XzA4Ng/screen-4.jpg?fakeurl=1&type=.jpg"
+        }
+    ]
+}
