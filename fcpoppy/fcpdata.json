@@ -18,7 +18,7 @@
           "int_video": "true",
           "int_chat": "false",
           "int_schedule": "true",
-          "int_timer": "false",
+          "int_timer": "true",
           "int_fake_chat": "false",
 
           "iron_source_key": "13199493d",
