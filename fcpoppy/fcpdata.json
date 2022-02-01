@@ -14,8 +14,8 @@
           
           "int_back": "true",
           "int_main": "false",
-          "int_audio": "false",
-          "int_video": "false",
+          "int_audio": "true",
+          "int_video": "true",
           "int_chat": "false",
           "int_schedule": "true",
           "int_timer": "false",
