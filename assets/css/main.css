@@ -691,7 +691,7 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 1rem 0 7rem 0;
-			width: 100%;
+			width: 100%; 
 		}
 
 			.image.main img {
