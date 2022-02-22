@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.linhead{
+	display: flex;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -676,7 +680,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 1.0rem 0;
+			margin: 0 0 5.5rem 0;
 			width: 100%;
 		}
 
