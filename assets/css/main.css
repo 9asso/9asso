@@ -1268,11 +1268,13 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 8.5rem;
+			height: 8.5rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			background: url(https://avatars.githubusercontent.com/u/18036184?s=200) center;
+			background-size: cover;
 		}
 
 			#header .logo .icon:before {
