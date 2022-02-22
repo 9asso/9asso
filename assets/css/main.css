@@ -36,6 +36,16 @@ body {
 .linhead{
 	display: flex;
 }
+.linhead p{
+	width: calc(100% - 30px);
+	margin: 0 0 0rem 0;
+}
+.linhead a{
+	width: 30px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+}
 
 ol, ul {
 	list-style: none;
