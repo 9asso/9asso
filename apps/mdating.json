@@ -1,0 +1,40 @@
+{
+    "titiz" : [
+        {
+          "img" : "https://image.winudf.com/v2/image1/Y29tLnNvaGFrb24uR2lybHlUaXRpeldhbGxwYXBlcjIwMjBfc2NyZWVuXzBfMTYwMDA5ODQzNl8wNzU/screen-0.jpg?fakeurl=1&type=.jpg",
+          "name" : "وفاء",
+          "age" : "18",
+          "location" : "مصر",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+=         "comments" : "comment 1ks0600comment 2ks0600comment3"
+        },
+        {
+          "img" : "https://scontent.frba2-1.fna.fbcdn.net/v/t1.6435-9/94257920_101599104870983_4823457962301325312_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGVwttNde0XpIua4q8IIUMGEjevWg3ZboASN69aDdlugJSa9MMR33YdSL6Bxj01r_IYNBHNJ9BtScFQkWYrrEOs&_nc_ohc=wwGDhBj8wSkAX9xLWbK&_nc_ht=scontent.frba2-1.fna&oh=00_AT_XEHh9ij6gcxrbTAb7KZCIArGObapSJIXTpSQfDMHxyQ&oe=626B872A",
+          "name" : "زهراء",
+          "age" : "23",
+          "location" : "تونس",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+=         "comments" : "comment 1ks0600comment 2ks0600comment3"
+        },
+        {
+          "img" : "https://scontent.frba2-2.fna.fbcdn.net/v/t1.6435-9/93901621_100247675006126_3778824871128072192_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEUpdwUZEVjjYp-wFNRv_kXJa8CrC-qQ2clrwKsL6pDZ1N6zF759WDSA8DxME4kSQhYJQfc4dkHnuBTc2VM2umm&_nc_ohc=cEBA21gtsRkAX8dJd6y&_nc_ht=scontent.frba2-2.fna&oh=00_AT-gmE27b5oFanfZAPzuChv9BLU7faqn54_67w3UzlDNiQ&oe=626BB540",
+          "name" : "ساره",
+          "age" : "21",
+          "location" : "المغرب",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+=         "comments" : "comment 1ks0600comment 2ks0600comment3"
+        },
+        {
+          "img" : "https://scontent.frba2-2.fna.fbcdn.net/v/t1.6435-9/94186397_100945178269709_2022276099962044416_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHw3426d3jw8tGuYtpp-QCaBE7H-XQUovUETsf5dBSi9Z2UUh03hAm0VROxxXDlriE1Vq6oJPTDPNMLt9y0Vzpc&_nc_ohc=JSkRxb1GP7cAX-LlZiq&_nc_ht=scontent.frba2-2.fna&oh=00_AT9J45d9JV9HLQ-jw4ASqOTcQrb-2UKtYzSRuPNvK9M05Q&oe=626CBC5E",
+          "name" : "ماريا",
+          "age" : "19",
+          "location" : "الجزائر",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+=         "comments" : "comment 1ks0600comment 2ks0600comment3"
+        }
+      ]
+}
