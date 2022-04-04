@@ -1,0 +1,22 @@
+{
+    "ads" : [
+        {
+            "activate_ads" : "true",
+            
+            "network" : "admob",
+           
+            "unity_game_id": "0000000000",
+            "unity_ban": "0000000000",
+            "unity_rewarded": "0000000000",
+            
+            "facebook_ban": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "facebook_int": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            
+            "ironsource_key": "13199493d"
+          
+        }
+    ]
+}
