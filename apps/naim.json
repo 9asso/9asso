@@ -1,0 +1,269 @@
+{
+    "ADS_STATION": {
+        "adNetwork": "admob",
+        "face_banner": "541539540481163_646817256620057",
+        "face_interstital": "541539540481163_646090733359376",
+        "face_native": "541539540481163_646817019953414",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
+        "admob_nativeads": "ca-app-pub-3940256099942544/2247696110",
+        "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+        "mopub_inter": "24534e1901884e398f1253216226017e",
+        "mopub_native": "11a17b188668469fb0412708c3d16813",
+        "ironsource_key": "1121ffd55",
+        "intersitial_click_activites": 1,
+        "intersitial_click_list": 1,
+        "banner_activities": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "inter_activities": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            false
+        ]
+    },
+    "content": {
+        "gridContent": [
+            {
+                "title": "Inroduction",
+                "tag": "First",
+                "description": "How to use the app",
+                "background_startcolor": "#2193b0",
+                "background_endcolor": "#6dd5ed",
+                "type": "double",
+                "textColor": "#FFFFFF",
+                "data": [
+                    {
+                        "title": "What is Cisco x meeting",
+                        "background_startcolor": "#2193b0",
+                        "background_endcolor": "#6dd5ed",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description describe",
+                        "description2": "Things you talk about",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 2",
+                        "background_startcolor": "#ee9ca7",
+                        "background_endcolor": "#ffdde1",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description",
+                        "description2": "Describe anything here",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 3",
+                        "background_startcolor": "#bdc3c7",
+                        "background_endcolor": "#2c3e50",
+                        "textColor": "#FFFFFF",
+                        "description1": "This is a description",
+                        "description2": "Describe anything you want",
+                        "text": "And this is the text..here describing everything to the user "
+                    }
+                ]
+            },
+            {
+                "title": "How to use the app",
+                "tag": "Second",
+                "description": "Short description",
+                "background_startcolor": "#ee9ca7",
+                "background_endcolor": "#ffdde1",
+                "type": "double",
+                "textColor": "#FFFFFF",
+                "data": [
+                    {
+                        "title": "Step 1",
+                        "background_startcolor": "#2193b0",
+                        "background_endcolor": "#6dd5ed",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description describe",
+                        "description2": "Things you talk about",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 2",
+                        "background_startcolor": "#ee9ca7",
+                        "background_endcolor": "#ffdde1",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description",
+                        "description2": "Describe anything here",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 3",
+                        "background_startcolor": "#bdc3c7",
+                        "background_endcolor": "#2c3e50",
+                        "textColor": "#FFFFFF",
+                        "description1": "This is a description",
+                        "description2": "Describe anything you want",
+                        "text": "And this is the text..here describing everything to the user "
+                    }
+                ]
+            },
+            {
+                "title": "Tips & tric",
+                "tag": "Third",
+                "description": "Click to get more",
+                "background_startcolor": "#bdc3c7",
+                "background_endcolor": "#2c3e50",
+                "type": "double",
+                "textColor": "#FFFFFF",
+                "data": [
+                    {
+                        "title": "Step 1",
+                        "background_startcolor": "#2193b0",
+                        "background_endcolor": "#6dd5ed",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description describe",
+                        "description2": "Things you talk about",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 2",
+                        "background_startcolor": "#ee9ca7",
+                        "background_endcolor": "#ffdde1",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description",
+                        "description2": "Describe anything here",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 3",
+                        "background_startcolor": "#bdc3c7",
+                        "background_endcolor": "#2c3e50",
+                        "textColor": "#FFFFFF",
+                        "description1": "This is a description",
+                        "description2": "Describe anything you want",
+                        "text": "And this is the text..here describing everything to the user "
+                    }
+                ]
+            },
+            {
+                "title": "Titlle 4",
+                "tag": "Fourth",
+                "description": "How to master",
+                "background_startcolor": "#56ab2f",
+                "background_endcolor": "#a8e063",
+                "type": "double",
+                "textColor": "#FFFFFF",
+                "data": [
+                    {
+                        "title": "Step 1",
+                        "background_startcolor": "#2193b0",
+                        "background_endcolor": "#6dd5ed",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description describe",
+                        "description2": "Things you talk about",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 2",
+                        "background_startcolor": "#ee9ca7",
+                        "background_endcolor": "#ffdde1",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description",
+                        "description2": "Describe anything here",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 3",
+                        "background_startcolor": "#bdc3c7",
+                        "background_endcolor": "#2c3e50",
+                        "textColor": "#FFFFFF",
+                        "description1": "This is a description",
+                        "description2": "Describe anything you want",
+                        "text": "And this is the text..here describing everything to the user "
+                    }
+                ]
+            },
+            {
+                "title": "Titlle 5",
+                "tag": "Fourth",
+                "description": "How to master",
+                "background_startcolor": "#d66d75",
+                "background_endcolor": "#e29587",
+                "type": "single",
+                "textColor": "#FFFFFF",
+                "data": [
+                    {
+                        "title": "Step 1",
+                        "background_startcolor": "#2193b0",
+                        "background_endcolor": "#6dd5ed",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description describe",
+                        "description2": "Things you talk about",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 2",
+                        "background_startcolor": "#ee9ca7",
+                        "background_endcolor": "#ffdde1",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description",
+                        "description2": "Describe anything here",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 3",
+                        "background_startcolor": "#bdc3c7",
+                        "background_endcolor": "#2c3e50",
+                        "textColor": "#FFFFFF",
+                        "description1": "This is a description",
+                        "description2": "Describe anything you want",
+                        "text": "And this is the text..here describing everything to the user "
+                    }
+                ]
+            },
+            {
+                "title": "Titlle 6",
+                "tag": "Fourth",
+                "description": "How to master",
+                "background_startcolor": "#36d1dc",
+                "background_endcolor": "#5b86e5",
+                "type": "single",
+                "textColor": "#FFFFFF",
+                "data": [
+                    {
+                        "title": "Step 1",
+                        "background_startcolor": "#2193b0",
+                        "background_endcolor": "#6dd5ed",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description describe",
+                        "description2": "Things you talk about",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 2",
+                        "background_startcolor": "#ee9ca7",
+                        "background_endcolor": "#ffdde1",
+                        "textColor": "#FFFFFF",
+                        "description1": "Here a short description",
+                        "description2": "Describe anything here",
+                        "text": "And this is the text..here describing everything to the user "
+                    },
+                    {
+                        "title": "Step 3",
+                        "background_startcolor": "#bdc3c7",
+                        "background_endcolor": "#2c3e50",
+                        "textColor": "#FFFFFF",
+                        "description1": "This is a description",
+                        "description2": "Describe anything you want",
+                        "text": "And this is the text..here describing everything to the user "
+                    }
+                ]
+            }
+        ]
+    }
+}
