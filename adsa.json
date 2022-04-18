@@ -3,7 +3,10 @@
         {
             "activate_ads" : "true",
             
-            "network" : "admob",
+            "network" : "max",
+            
+            "max_ban": "0000000000",
+            "max_int": "0000000000",
            
             "unity_game_id": "0000000000",
             "unity_ban": "0000000000",
