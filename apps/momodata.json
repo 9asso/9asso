@@ -2,6 +2,14 @@
     "data" : [
         {
           
+            "network": "admob",
+            
+            "max_ban": "58d500f00953f50c",
+            "max_int": "3ccb5bee7dbb41d7",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
             "name": "Momo",
             "photo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f75a0d2-3b82-40ad-9405-19b84b5cb96b/dchrriz-42e23028-1283-42fe-8a2b-01b5efa517c5.png/v1/fill/w_901,h_887,q_70,strp/momo_draw_by_flowbellbunny_dchrriz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwOSIsInBhdGgiOiJcL2ZcLzRmNzVhMGQyLTNiODItNDBhZC05NDA1LTE5Yjg0YjVjYjk2YlwvZGNocnJpei00MmUyMzAyOC0xMjgzLTQyZmUtOGEyYi0wMWI1ZWZhNTE3YzUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vi1ycf4dToL2uX5y070kt11J07LnTPuGbJyMK2Z6Ih0",
             "voice": "https://assets.mixkit.co/videos/preview/mixkit-halloween-nun-in-the-dark-41778-large.mp4",
