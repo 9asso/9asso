@@ -4,7 +4,7 @@
             "celebrities": [
               {
                 "name" : "Emma Stone",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "img" : "https://www.premiere.fr/sites/default/files/styles/scale_crop_560x800/public/2018-04/abaca_470832_001.jpg",
                 "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
                 "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
                 "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
@@ -19,14 +19,14 @@
             ],
             "singers": [
               {
-                "name" : "Rihanna",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "name" : "Shakira",
+                "img" : "https://www.pinkvilla.com/imageresize/_shakira_looks_back_at_the_worst_mistake_of_her_life.jpg?width=752&format=webp&t=pvorg",
                 "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
                 "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
                 "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
               },
               {
-                "name" : "Shakira",
+                "name" : "Rihanna",
                 "img" : "https://9asso.github.io/poppycall/poppypicture.png",
                 "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
                 "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
@@ -36,7 +36,7 @@
             "sports": [
               {
                 "name" : "Leo Messi",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "img" : "https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/20180419-the18-image-messi.jpg?itok=238EKfRJ",
                 "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
                 "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
                 "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
