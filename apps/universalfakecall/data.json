@@ -1,87 +1,85 @@
 {
+    "pins": [
+        "Celebrities,https://www.premiere.fr/sites/default/files/styles/scale_crop_560x800/public/2018-04/abaca_470832_001.jpg",
+        "Politicians,https://www.power-technology.com/wp-content/uploads/sites/21/2019/07/Putin.jpg",
+        "Influencers,https://i.pinimg.com/736x/f9/a9/2c/f9a92cf5b51aab571be1163bc014373a--clarks.jpg",
+        "Singers,https://i.pinimg.com/736x/56/ee/cb/56eecbf58ceb6996916b4d20911e284e.jpg",
+        "Sports,https://i.pinimg.com/564x/26/c0/b2/26c0b2596b67ae956cc2f960fe5ffb5b.jpg",
+        "Artists,http://31.media.tumblr.com/tumblr_me964qjpjN1qawaoao1_500.jpg",
+        "Scientists,https://i.pinimg.com/236x/96/be/b0/96beb08d45479b5538bc77530e757b91--yousuf-karsh-heroes.jpg",
+        "Actresses,https://media.vanityfair.com/photos/56ec70e79c588a023a99c685/1:1/w_350%2Ch_350%2Cc_limit/emma-stone-tv-show.jpg",
+        "Actors,https://thinkingheads.com/wp-content/uploads/2019/11/will-smith-speaker-entertainment-actor-thinking-heads.jpg"
+    ],
     "data" : [
         {
-            "celebrities": [
-              {
-                "name" : "Emma Stone",
-                "img" : "https://www.premiere.fr/sites/default/files/styles/scale_crop_560x800/public/2018-04/abaca_470832_001.jpg",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              },
-              {
-                "name" : "Lily Pone",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              }
-            ],
-            "singers": [
-              {
-                "name" : "Shakira",
-                "img" : "https://www.pinkvilla.com/imageresize/_shakira_looks_back_at_the_worst_mistake_of_her_life.jpg?width=752&format=webp&t=pvorg",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              },
-              {
-                "name" : "Rihanna",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              }
-            ],
-            "sports": [
-              {
-                "name" : "Leo Messi",
-                "img" : "https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/20180419-the18-image-messi.jpg?itok=238EKfRJ",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              },
-              {
-                "name" : "Rafael Nadal",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              }
-            ],
-            "artists": [
-              {
-                "name" : "Mozard",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              },
-              {
-                "name" : "Chekspire",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              }
-            ],
-            "scientists": [
-              {
-                "name" : "Robert Watson",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              },
-              {
-                "name" : "Albert Einstein",
-                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
-                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-              }
-            ]
-          
-        }
+            "name" : "Emma Stone",
+            "img" : "https://www.premiere.fr/sites/default/files/styles/scale_crop_560x800/public/2018-04/abaca_470832_001.jpg",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Lily Pone",
+            "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Shakira",
+            "img" : "https://www.pinkvilla.com/imageresize/_shakira_looks_back_at_the_worst_mistake_of_her_life.jpg?width=752&format=webp&t=pvorg",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Rihanna",
+            "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Leo Messi",
+            "img" : "https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/20180419-the18-image-messi.jpg?itok=238EKfRJ",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Rafael Nadal",
+            "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Mozard",
+            "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Chekspire",
+            "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Robert Watson",
+            "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          },
+          {
+            "name" : "Albert Einstein",
+            "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+          }
     ]
 }
