@@ -1,0 +1,87 @@
+{
+    "data" : [
+        {
+            "celebrities": [
+              {
+                "name" : "Emma Stone",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              },
+              {
+                "name" : "Lily Pone",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              }
+            ],
+            "singers": [
+              {
+                "name" : "Rihanna",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              },
+              {
+                "name" : "Shakira",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              }
+            ],
+            "sports": [
+              {
+                "name" : "Leo Messi",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              },
+              {
+                "name" : "Rafael Nadal",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              }
+            ],
+            "artists": [
+              {
+                "name" : "Mozard",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              },
+              {
+                "name" : "Chekspire",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              }
+            ],
+            "scientists": [
+              {
+                "name" : "Robert Watson",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              },
+              {
+                "name" : "Albert Einstein",
+                "img" : "https://9asso.github.io/poppycall/poppypicture.png",
+                "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+                "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+              }
+            ],
+          
+        }
+    ]
+}
