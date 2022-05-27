@@ -13,74 +13,100 @@
     ],
     "data" : [
         {
-            "name" : "Emma Stone",
-            "img" : "https://www.premiere.fr/sites/default/files/styles/scale_crop_560x800/public/2018-04/abaca_470832_001.jpg",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Lele Pons",
-            "img" : "https://los40es00.epimg.net/los40/imagenes/2017/04/28/tecnologia/1493383542_624042_1493384245_noticia_normal.jpg",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Shakira",
-            "img" : "https://www.onthisday.com/images/people/shakira-medium.jpg",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Rihanna",
-            "img" : "https://assets.ltkcontent.com/images/14469/21394.rihanna_d48e0dc57d.jpg",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Leo Messi",
-            "img" : "https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/20180419-the18-image-messi.jpg?itok=238EKfRJ",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Rafael Nadal",
-            "img" : "https://guardian.ng/wp-content/uploads/2019/04/000_1FT0S9.jpg",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Mozart",
-            "img" : "https://usuo.org/app/uploads/sites/2/2011/01/Wolfgang-amadeus-mozart.jpg",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "William Shakespeare",
-            "img" : "https://cdn.12min.com/books/books_background/60830_William_Shakespear.site_cover.jpg?1592248132",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Elon Musk",
-            "img" : "https://imageio.forbes.com/specials-images/imageserve/5f47d4de7637290765bce495/0x0.jpg?format=jpg&crop=2146,2145,x1699,y559,safe&height=416&width=416&fit=bounds",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          },
-          {
-            "name" : "Albert Einstein",
-            "img" : "https://i.pinimg.com/236x/96/be/b0/96beb08d45479b5538bc77530e757b91--yousuf-karsh-heroes.jpg",
-            "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-            "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-          }
+          "name" : "Clarks",
+          "theme" : "Influencers",
+          "img" : "https://i.pinimg.com/736x/f9/a9/2c/f9a92cf5b51aab571be1163bc014373a--clarks.jpg",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Vlodimire Potin",
+          "theme" : "Politicians",
+          "img" : "https://www.power-technology.com/wp-content/uploads/sites/21/2019/07/Putin.jpg",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Emma Stone",
+          "theme" : "Actresses",
+          "img" : "https://www.premiere.fr/sites/default/files/styles/scale_crop_560x800/public/2018-04/abaca_470832_001.jpg",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Lele Pons",
+        "theme" : "Celebrities",
+        "img" : "https://los40es00.epimg.net/los40/imagenes/2017/04/28/tecnologia/1493383542_624042_1493384245_noticia_normal.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Shakira",
+        "theme" : "Singers",
+        "img" : "https://www.onthisday.com/images/people/shakira-medium.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Rihanna",
+        "theme" : "Singers",
+        "img" : "https://assets.ltkcontent.com/images/14469/21394.rihanna_d48e0dc57d.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Leo Messi",
+        "theme" : "Sports",
+        "img" : "https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/20180419-the18-image-messi.jpg?itok=238EKfRJ",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Rafael Nadal",
+        "theme" : "Sports",
+        "img" : "https://guardian.ng/wp-content/uploads/2019/04/000_1FT0S9.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Mozart",
+        "theme" : "Artists",
+        "img" : "https://usuo.org/app/uploads/sites/2/2011/01/Wolfgang-amadeus-mozart.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "William Shakespeare",
+        "theme" : "Artists",
+        "img" : "https://cdn.12min.com/books/books_background/60830_William_Shakespear.site_cover.jpg?1592248132",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Elon Musk",
+        "theme" : "Celebrities",
+        "img" : "https://imageio.forbes.com/specials-images/imageserve/5f47d4de7637290765bce495/0x0.jpg?format=jpg&crop=2146,2145,x1699,y559,safe&height=416&width=416&fit=bounds",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Albert Einstein",
+        "theme" : "Scientists",
+        "img" : "https://i.pinimg.com/236x/96/be/b0/96beb08d45479b5538bc77530e757b91--yousuf-karsh-heroes.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        }
     ]
 }
