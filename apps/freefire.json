@@ -4,9 +4,12 @@
           
             "network": "admob",
             
-            "fan_ban": "IMG_16_9_APP_INSTALL#294965846134861_319463927018386",
-            "fan_int": "IMG_16_9_APP_INSTALL#294965846134861_319463963685049",
-            "fan_native": "IMG_16_9_APP_INSTALL#294965846134861_319464047018374",
+            "active_ads": "true",
+            
+            "is_app_key": "151185031",
+            
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
             
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
