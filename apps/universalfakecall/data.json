@@ -13,6 +13,14 @@
     ],
     "data" : [
         {
+          "name" : "Cheryl Blossom",
+          "theme" : "Actresses",
+          "img" : "https://i.pinimg.com/originals/07/6c/38/076c38825616b641c82a8a323ac435d6.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
           "name" : "Angelina Jolie",
           "theme" : "Actresses",
           "img" : "https://i.pinimg.com/originals/90/51/fd/9051fdf23f94873e9719cae33bc250d4.gif",
