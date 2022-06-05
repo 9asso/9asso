@@ -13,6 +13,30 @@
     ],
     "data" : [
         {
+          "name" : "Angelina Jolie",
+          "theme" : "Actresses",
+          "img" : "https://i.pinimg.com/originals/90/51/fd/9051fdf23f94873e9719cae33bc250d4.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Scarlett Johansson",
+          "theme" : "Actresses",
+          "img" : "https://i.pinimg.com/originals/26/c1/46/26c1468205d5b7958c9445a89fb4ffb7.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Amber Heard",
+          "theme" : "Actresses",
+          "img" : "https://64.media.tumblr.com/35bb37a2aaff4d11345f97090cac9464/tumblr_inline_p7isl48ihr1szv97g_250.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
           "name" : "Effy Stonem",
           "theme" : "Actresses",
           "img" : "https://data.whicdn.com/images/86571389/original.gif",
