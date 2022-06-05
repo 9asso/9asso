@@ -13,6 +13,30 @@
     ],
     "data" : [
         {
+          "name" : "Effy Stonem",
+          "theme" : "Actresses",
+          "img" : "https://data.whicdn.com/images/86571389/original.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Gal Gadot",
+          "theme" : "Actresses",
+          "img" : "https://giffiles.alphacoders.com/211/211036.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Keira Knightley",
+          "theme" : "Actresses",
+          "img" : "https://c.tenor.com/guoEBmJVCtMAAAAC/keira-knightley-happy.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
           "name" : "Clarks",
           "theme" : "Influencers",
           "img" : "https://i.pinimg.com/736x/f9/a9/2c/f9a92cf5b51aab571be1163bc014373a--clarks.jpg",
