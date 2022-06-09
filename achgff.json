@@ -6,15 +6,9 @@
             
             "active_ads": "true",
             
-            "max_ban": "41520d44e3d06b49",
-            "max_int": "261588b3776ba31b",
-            
             "is_app_key": "151185031",
             "is_ban": "DefaultBanner",
-            "is_int": "DefaultInterstitial",
-            
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712"
+            "is_int": "DefaultInterstitial"
           
         }
     ]
