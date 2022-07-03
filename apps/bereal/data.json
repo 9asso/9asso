@@ -1,22 +1,22 @@
 {
     "data" : [
         {
-            "title" : "title 1",
+            "title" : "App intro. Four steps, you can skip them or swipe one by one.",
             "screens" : "https://9asso.github.io/apps/bereal/1.jpg|https://9asso.github.io/apps/bereal/2.jpg|https://9asso.github.io/apps/bereal/3.jpg|https://9asso.github.io/apps/bereal/4.jpg",
             "descriptions" : "desc 1|desc 2|desc 3|desc4"
         },
         {
-            "title" : "title 2",
+            "title" : "Registration steps, name, birthday, phoe number and username.",
             "screens" : "https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg",
             "descriptions" : "desc 1|desc 2"
         },
         {
-            "title" : "title 3",
+            "title" : "Step where you can find your friends by scanning them.",
             "screens" : "https://9asso.github.io/apps/bereal/7.jpg|https://9asso.github.io/apps/bereal/8.jpg|https://9asso.github.io/apps/bereal/9.jpg",
             "descriptions" : "desc 1|desc 2|desc 3"
         },
         {
-            "title" : "title 1",
+            "title" : "⚠️ Time to BeReal. ⚠️ : is the title of the notification where you can start your first BeReal.",
             "screens" : "https://9asso.github.io/apps/bereal/1.jpg|https://9asso.github.io/apps/bereal/2.jpg|https://9asso.github.io/apps/bereal/3.jpg|https://9asso.github.io/apps/bereal/4.jpg",
             "descriptions" : "desc 1|desc 2|desc 3|desc4"
         },
