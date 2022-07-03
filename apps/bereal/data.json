@@ -1,53 +1,19 @@
 {
-    "part1" : [
+    "data" : [
         {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/1.jpg",
-            "description" : "desc 1"
+            "title" : "title 1",
+            "screens" : "https://9asso.github.io/apps/bereal/1.jpg|https://9asso.github.io/apps/bereal/2.jpg|https://9asso.github.io/apps/bereal/3.jpg|https://9asso.github.io/apps/bereal/4.jpg",
+            "descriptions" : "desc 1|desc 2|desc 3|desc4"
         },
         {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/2.jpg",
-            "description" : "desc 2"
+            "title" : "title 2",
+            "screens" : "https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg",
+            "descriptions" : "desc 1|desc 2"
         },
         {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/3.jpg",
-            "description" : "desc 3"
-        },
-        {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/4.jpg",
-            "description" : "desc 4"
-        }
-    ],
-    "part2" : [
-        {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/5.jpg",
-            "description" : "desc 1"
-        },
-        {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/5.jpg",
-            "description" : "desc 1"
-        }
-    ],
-    "part3" : [
-        {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/6.jpg",
-            "description" : "desc 1"
-        },
-        {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/7.jpg",
-            "description" : "desc 1"
-        },
-        {
-            "name" : "Toca Life: World",
-            "screen" : "https://9asso.github.io/apps/bereal/8.jpg",
-            "description" : "desc 1"
+            "title" : "title 3",
+            "screens" : "https://9asso.github.io/apps/bereal/7.jpg|https://9asso.github.io/apps/bereal/8.jpg|https://9asso.github.io/apps/bereal/9.jpg",
+            "descriptions" : "desc 1|desc 2|desc 3"
         }
     ]
 }
