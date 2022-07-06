@@ -6,43 +6,48 @@
             "descriptions" : "desc 1|desc 2|desc 3|desc4"
         },
         {
-            "title" : "Registration steps, name, birthday, phoe number and username.",
-            "screens" : "https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg",
+            "title" : "Registration steps, name, birthday, phone number and username.",
+            "screens" : "https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg|https://9asso.github.io/apps/bereal/7.jpg|https://9asso.github.io/apps/bereal/8.jpg|https://9asso.github.io/apps/bereal/9.jpg|https://9asso.github.io/apps/bereal/10.jpg|https://9asso.github.io/apps/bereal/11.jpg",
             "descriptions" : "desc 1|desc 2"
         },
         {
             "title" : "Step where you can find your friends by scanning them.",
-            "screens" : "https://9asso.github.io/apps/bereal/7.jpg|https://9asso.github.io/apps/bereal/8.jpg|https://9asso.github.io/apps/bereal/9.jpg",
+            "screens" : "https://9asso.github.io/apps/bereal/12.jpg",
             "descriptions" : "desc 1|desc 2|desc 3"
         },
         {
             "title" : "⚠️ Time to BeReal. ⚠️ : is the title of the notification where you can start your first BeReal.",
-            "screens" : "https://9asso.github.io/apps/bereal/1.jpg|https://9asso.github.io/apps/bereal/2.jpg|https://9asso.github.io/apps/bereal/3.jpg|https://9asso.github.io/apps/bereal/4.jpg",
+            "screens" : "https://9asso.github.io/apps/bereal/13.jpg|https://9asso.github.io/apps/bereal/14.jpg|https://9asso.github.io/apps/bereal/15.jpg",
             "descriptions" : "desc 1|desc 2|desc 3|desc4"
         },
         {
-            "title" : "title 2",
-            "screens" : "https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg,https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg,https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg,https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg",
+            "title" : "Ready to BeReal? Create your first BeReal and add a caption!",
+            "screens" : "https://9asso.github.io/apps/bereal/16.jpg|https://9asso.github.io/apps/bereal/17.jpg|https://9asso.github.io/apps/bereal/18.jpg|https://9asso.github.io/apps/bereal/19.jpg|https://9asso.github.io/apps/bereal/20.jpg",
             "descriptions" : "desc 1|desc 2"
         },
         {
-            "title" : "title 3",
-            "screens" : "https://9asso.github.io/apps/bereal/7.jpg|https://9asso.github.io/apps/bereal/8.jpg|https://9asso.github.io/apps/bereal/9.jpg",
+            "title" : "Your main profile is a preview of your BeReal shots and editting space.",
+            "screens" : "https://9asso.github.io/apps/bereal/21.jpg|https://9asso.github.io/apps/bereal/22.jpg|https://9asso.github.io/apps/bereal/23.jpg|https://9asso.github.io/apps/bereal/24.jpg",
             "descriptions" : "desc 1|desc 2|desc 3"
         },
         {
-            "title" : "title 1",
-            "screens" : "https://9asso.github.io/apps/bereal/1.jpg|https://9asso.github.io/apps/bereal/2.jpg|https://9asso.github.io/apps/bereal/3.jpg|https://9asso.github.io/apps/bereal/4.jpg",
+            "title" : "In My Friends section you could add more friends from your contacts list.",
+            "screens" : "https://9asso.github.io/apps/bereal/25.jpg|https://9asso.github.io/apps/bereal/26.jpg",
             "descriptions" : "desc 1|desc 2|desc 3|desc4"
         },
         {
-            "title" : "title 2",
-            "screens" : "https://9asso.github.io/apps/bereal/5.jpg|https://9asso.github.io/apps/bereal/6.jpg",
+            "title" : "Discovery section, is place where you will find overal guys's BeReal shots.",
+            "screens" : "https://9asso.github.io/apps/bereal/27.jpg|https://9asso.github.io/apps/bereal/28.jpg|https://9asso.github.io/apps/bereal/29.jpg",
             "descriptions" : "desc 1|desc 2"
         },
         {
-            "title" : "title 3",
-            "screens" : "https://9asso.github.io/apps/bereal/7.jpg|https://9asso.github.io/apps/bereal/8.jpg|https://9asso.github.io/apps/bereal/9.jpg",
+            "title" : "Now it's time to RealMojis and react to your friends's BeReals",
+            "screens" : "https://9asso.github.io/apps/bereal/31.jpg|https://9asso.github.io/apps/bereal/32.jpg|https://9asso.github.io/apps/bereal/35.jpg|https://9asso.github.io/apps/bereal/37.jpg",
+            "descriptions" : "desc 1|desc 2|desc 3"
+        },
+        {
+            "title" : "Also from Discovery section, you can add a new friends from there profiles.",
+            "screens" : "https://9asso.github.io/apps/bereal/34.jpg|https://9asso.github.io/apps/bereal/36.jpg",
             "descriptions" : "desc 1|desc 2|desc 3"
         }
     ]
