@@ -18,7 +18,29 @@
         {
             "title" : "App intro. Four steps, you can skip them or swipe one by one.",
             "screens" : "https://9asso.github.io/apps/bereal/1.jpg|https://9asso.github.io/apps/bereal/2.jpg|https://9asso.github.io/apps/bereal/3.jpg|https://9asso.github.io/apps/bereal/4.jpg",
-            "descriptions" : "desc 1|desc 2|desc 3|desc4"
+            "descriptions" : "BeReal is the first Uncontrollable social media to share an authentic moments in Photo.
+Everyday at a random time, everyone has to capture a Photo in 2 minutes.
+Capture and post in time to discover what your Friends are up to.
+
+CAMERA 📸
+• The camera is quite unusual, it's actually taking a picture of what is in front of you and a selfie at the same time.
+
+COMMENTS 💬
+• Comment your friend's BeReal and chat with all his friends.
+
+REALMOJIS 😱
+• React on your friend's BeReal with a RealMoji.
+
+MAP 🗺
+• See where all your friends are when they take their BeReal.
+
+DISCOVER 🔍
+• Photos of people around the world in the public timeline.
+
+✔ It's life, Real life, and this life is without filters. #nofilter #beauthentic
+✔ It's your chance to show your friends who you really are, for once.
+✔ It's pronounced “BiRil”, not bereale, or Bèreol, it’s like B-Real from Cypress Hill.
+✔ BeReal is written well BeReal all attached, not be real detached."
         },
         {
             "title" : "Registration steps, name, birthday, phone number and username.",
