@@ -1,7 +1,7 @@
 {
     "ads": [
         {
-        "active_ads": "true",
+        "active_ads": "false",
         "network": "admob",
         "one_signal": "one_signal",
         "max_ban": "41520d44e3d06b49",
