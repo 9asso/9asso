@@ -2,8 +2,8 @@
     "ads": [
         {
         "active_ads": "false",
-        "network": "admob",
-        "one_signal": "one_signal",
+        "network": "fan",
+        "one_signal": "5323e39c-4aed-4495-8138-f6c95f917a56",
         "max_ban": "41520d44e3d06b49",
         "max_int": "261588b3776ba31b",
         "fan_ban": "IMG_16_9_APP_INSTALL#3281661698780162_3281661802113485",
