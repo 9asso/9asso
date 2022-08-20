@@ -147,17 +147,20 @@
                                             <ul>
                                                 <li><strong>Item Name : </strong>Ultimate Guide, With Small Quizy Games</li>
                                                 <li><strong>Item Version : </strong> v 1.0</li>
+                                                <li><strong>Separated Networks Supported : </strong> Yandex | Facebook Audience Network | Admob</li>
+                                                <li><strong>Mediators Networks Supported : </strong> IronSource | Applovin Max</li>
                                                 <li><strong>Author  : </strong> <a href="https://linktr.ee/9asso" target="_blank">Mohamed Ks</a></li>
                                                 <li><strong>Support Forum : </strong> <a href="https://linktr.ee/9asso" target="_blank">DM Social Contact</a></li>
                                                 <!-- <li><strong>License : </strong> <a href="#" target="_blank">Un License</a></li> -->
                                             </ul>
                                         </div>
 
-                                        <img style="width: 100px; border-radius: 3px;" src="images/parto.png" />
+                                        <img style="width: 100%; border-radius: 3px;" src="images/parto.png" />
 
-                                        <img style="width: 100px; border-radius: 3px;" src="images/partd.png" />
+                                        <img style="width: 100%; border-radius: 3px;" src="images/partd.png" />
 
                                         <hr>
+
                                         <div>
 
                                             <h4>Requirements</h4>
@@ -195,57 +198,144 @@
                         <div class="row">
                             <div class="col-md-12">
 
-                                <h4>Advertising Networks</h4>
+                                <h4>How to change Advertising networks</h4>
 
                                 <p>Path : <b>controllers/AppConfig</b></p>
 
-                                <pre class="brush: html; highlight: [2,4]">
-                                    public static final String ad_data_link = "https://9asso.github.io/gemsads.json";
+                                <pre class="brush: java; highlight: [2,4]">
+                                    public static final String ad_data_link_json = "https://9asso.github.io/gemsads.json";
                                 </pre>
 
-                                <p>Link smiyto <b>ad_data_link</b> had link fih l ad config w fih data. <a href="https://9asso.github.io/gemsads.json" target="_blank">json file</a></p>
+                                <pre class="brush: json; highlight: [2,4]">
+                                    "config" : [
+        {
+          "activate_ads" : "true",
+          "activate_steps" : "false",
+          "network" : "yandex",
+          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "yandex_banner" : "R-M-DEMO-320x50",
+          "yandex_native" : "R-M-DEMO-native-i",
+          "yandex_int" : "R-M-DEMO-interstitial",
+          "max_ban" : "ad8e330be9603517",
+          "max_int" : "56ad1887f9679bf2",
+          "face_banner": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+          "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+          "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+          "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+          "ironsource_key": "12c959ebd"
+        }
+    ]
+                                </pre>
+
+                                <p>Link smiyto <b>ad_data_link_json</b> had link fih l ad config w fih data. <a href="https://9asso.github.io/gemsads.json" target="_blank">json file</a></p>
+
+                                <h4>How to change content data : json version</h4>
+
+                                <p>Path : <b>controllers/AppConfig</b></p>
+
+                                <pre class="brush: java; highlight: [2,4]">
+                                    public static final String ad_data_link_json = "https://9asso.github.io/gemsads.json";
+                                </pre>
+
+                                <pre class="brush: json; highlight: [2,4]">
+                                    "data" : [
+        {
+            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
+            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
+            "img2" : "https://i.gifer.com/BCyK.gif",
+            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
+            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+        },
+        {
+            "name" : "Toca Life World APK guide",
+            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
+            "img2" : "https://i.gifer.com/MjQT.gif",
+            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
+            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+        },
+        {
+            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
+            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+        },
+        .
+        .
+        .
+                                </pre>
+
+                                <p>Link smiyto <b>ad_data_link_json</b> had link fih l ad config w fih data. <a href="https://9asso.github.io/gemsads.json" target="_blank">json file</a></p>
+
+                                <h4>How to change content data : html version</h4>
+
+                                <p>Path : <b>controllers/AppConfig</b></p>
+
+                                <pre class="brush: java; highlight: [2,4]">
+                                    public static final String ad_data_link_html = "https://9asso.github.io/gemsadshtml.json";
+                                </pre>
+
+                                <pre class="brush: json; highlight: [2,4]">
+                                    {
+                                        "data" : [
+                                        {
+                                            "html" : "https://9asso.github.io/poppyguide/guide_7.html",
+                                            "img" : "https://blog.en.uptodown.com/files/2022/07/Destacada-11.jpg",
+                                            "name" : "Starting a New Game"
+                                        },
+                                        {
+                                            "html" : "https://9asso.github.io/poppyguide/guide_7.html",
+                                            "img" : "https://crast.net/img/2022/06/So-you-can-play-with-your-friends-in-Stumble-Guys.jpeg",
+                                            "name" : "Green Tape (Optional)"
+                                        },
+                                        {
+                                            "html" : "https://9asso.github.io/poppyguide/guide_7.html",
+                                            "img" : "https://www.siberstar.com/wp-content/uploads/2022/07/Stumble-Guys-Mod-APK-Techbigs-APK-Indir-2022.jpg",
+                                            "name" : "Unlocking the Security Door Puzzle"
+                                        },
+                                        .
+                                        .
+                                        .
+                                </pre>
+
+                                <p>Link smiyto <b>ad_data_link_html</b> had link fih l data items version html. <a href="https://9asso.github.io/gemsads.json" target="_blank">json file</a></p>
 
                                 <pre class="brush: html; highlight: [2,4]">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        YOUR CODES GOES HERE
-                                    </div>
-                                </div>
-                            </div></pre>
+                                    <html>
+    <head>
+        <link rel="stylesheet" href="style.css" media="all">
+    </head>
+    <body>
 
-                                <p>Our you can use the grid system with 2 columns like this;</p>
+        <img src="https://images.unsplash.com/photo-1521776943084-9a3512bd6311?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60" style="width:100%">
 
-                                <pre class="brush: html">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        YOUR CODES GOES HERE
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        YOUR CODES GOES HERE
-                                    </div>
-                                </div>
-                            </div>
-                         </pre>
+        <p>In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on.</p>
 
-                                <p>Our you can use the grid system with 3 columns like this;</p>
+        <img src="https://images.unsplash.com/photo-1540650659171-c24a35e9cd54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80" style="width:100%">
 
-                                <pre class="brush: html">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                        YOUR CODES GOES HERE
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                        YOUR CODES GOES HERE
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                                        YOUR CODES GOES HERE
-                                    </div>
-                                </div>
-                            </div>
-                         </pre>
+        <p>In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on.</p>
+
+        <img src="https://images.unsplash.com/photo-1601830976337-e32f60eba315?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80" style="width:100%">
+
+        <p>In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on.</p>
+        
+        <p>In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. </p>
+
+        <p>Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on.</p>
+
+        <img src="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" style="width:100%">
+
+        <p>Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on.</p>
+
+        <p>With the power back on head back to the lobby area. You will notice that Huggy Wuggy is gone. From this point on you will encounter this monster as you explore the other rooms of the building. Are next stop is through the Blue hand door we tried opening without there being power. Open it now and head through it. Go down the hallway and go through the door on your left. Walk down the dark hallway into the next area.</p>
+
+    </body>
+
+</html>
+                                </pre>
+
                             </div>
                             <!-- end col -->
                         </div>
@@ -258,7 +348,7 @@
 
                         <div class="row">
                             <div class="col-md-12 left-align">
-                                <h2 class="dark-text">How to Install WordPress <hr></h2>
+                                <h2 class="dark-text">How to change content data <hr></h2>
                             </div>
                             <!-- end col -->
                         </div>
