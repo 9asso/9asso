@@ -1,0 +1,416 @@
+{
+    "ads": [
+        {
+        "active_ads": "true",
+        "network": "fan",
+        "one_signal": "63a4e8fe-c5f8-44ec-916b-19cbb83f0e7a",
+        "max_ban": "41520d44e3d06b49",
+        "max_int": "261588b3776ba31b",
+        "fan_ban": "IMG_16_9_APP_INSTALL#3281661698780162_3281661802113485",
+        "fan_int": "IMG_16_9_APP_INSTALL#3281661698780162_3281661795446819",
+        "fan_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#3281661698780162_3281661805446818",
+        "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+        "admob_int": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110"
+        }
+    ],
+    "pins": [
+        "Arcane,https://a.d-cd.net/tkak5ehDU2lOyh1C0ana_Gp5sEE-960.jpg",
+        "Celebrities,https://9asso.github.io/apps/universalfakecall/pins/f.png",
+        "Politicians,https://9asso.github.io/apps/universalfakecall/pins/b.png",
+        "Influencers,https://9asso.github.io/apps/universalfakecall/pins/c.png",
+        "Singers,https://9asso.github.io/apps/universalfakecall/pins/d.png",
+        "Sports,https://9asso.github.io/apps/universalfakecall/pins/h.png",
+        "Artists,https://9asso.github.io/apps/universalfakecall/pins/a.png",
+        "Scientists,https://9asso.github.io/apps/universalfakecall/pins/g.png",
+        "Actresses,https://9asso.github.io/apps/universalfakecall/pins/i.png",
+        "Actors,https://9asso.github.io/apps/universalfakecall/pins/j.png",
+        "Anime,https://9asso.github.io/apps/universalfakecall/pins/e.png"
+    ],
+    "data" : [
+        {
+          "name" : "Viktor",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Viktor_OriginalSquare.png",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Smeech",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/SmeechSquare.png",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Salo",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/SaloSquare.png/revision/latest/scale-to-width-down/300?cb=20220202082508",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Margot",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/MargotSquare.png/revision/latest/scale-to-width-down/300?cb=20220210181953",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Heimerdinger",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Heimerdinger_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20150402220126",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Ekko",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Ekko_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20151218185247",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Caitlyn",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20150402215548",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Vi",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Vi_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20160526214220",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Singed",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Singed_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20150402221057",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Renni",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/RenniSquare.png/revision/latest/scale-to-width-down/300?cb=20220202080523",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Marcus",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/MarcusSquare.png/revision/latest/scale-to-width-down/300?cb=20220202080026",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Harold",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/HaroldSquare.png/revision/latest/scale-to-width-down/300?cb=20220202085026",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Claggor",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/0/07/ClaggorSquare.png/revision/latest/scale-to-width-down/300?cb=20220201225138",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Bolbok",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/BolbokSquare.png/revision/latest/scale-to-width-down/300?cb=20220202072452",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Vander",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/VanderSquare.png/revision/latest/scale-to-width-down/300?cb=20220202070924",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Silco",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Silco_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20220201143809",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Mylo",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/MyloSquare.png/revision/latest/scale-to-width-down/300?cb=20220201225230",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Jinx",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Jinx_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20160417011945",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Finn",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/FinnSquare.png/revision/latest/scale-to-width-down/300?cb=20220202075409",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Chross",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/ChrossSquare.png/revision/latest/scale-to-width-down/300?cb=20220202072923",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Ambessa",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/AmbessaSquare.png/revision/latest/scale-to-width-down/300?cb=20220202072116",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Tobias",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/TobiasSquare.png/revision/latest/scale-to-width-down/300?cb=20220202080247",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Sevika",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/SevikaSquare.png/revision/latest/scale-to-width-down/300?cb=20220202002600",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Mel",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/MelSquare.png/revision/latest/scale-to-width-down/300?cb=20220202071832",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Elora",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/EloraSquare.png/revision/latest/scale-to-width-down/300?cb=20220202075720",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Cassandra",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/CassandraSquare.png/revision/latest/scale-to-width-down/300?cb=20220202072622",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Amara",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/AmaraSquare.png/revision/latest/scale-to-width-down/300?cb=20220202071947",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Jayce",
+          "theme" : "Arcane",
+          "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Jayce_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20160526212746",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Firelight Ekko",
+          "theme" : "Arcane",
+          "img" : "https://earlygame.com/uploads/images/_galleryItem2x_webp/495567/firelight-Ekko-splash.webp",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Cheryl Blossom",
+          "theme" : "Actresses",
+          "img" : "https://i.pinimg.com/originals/07/6c/38/076c38825616b641c82a8a323ac435d6.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Angelina Jolie",
+          "theme" : "Actresses",
+          "img" : "https://i.pinimg.com/originals/90/51/fd/9051fdf23f94873e9719cae33bc250d4.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Scarlett Johansson",
+          "theme" : "Actresses",
+          "img" : "https://i.pinimg.com/originals/26/c1/46/26c1468205d5b7958c9445a89fb4ffb7.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Amber Heard",
+          "theme" : "Actresses",
+          "img" : "https://64.media.tumblr.com/35bb37a2aaff4d11345f97090cac9464/tumblr_inline_p7isl48ihr1szv97g_250.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Effy Stonem",
+          "theme" : "Actresses",
+          "img" : "https://data.whicdn.com/images/86571389/original.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Gal Gadot",
+          "theme" : "Actresses",
+          "img" : "https://giffiles.alphacoders.com/211/211036.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Keira Knightley",
+          "theme" : "Actresses",
+          "img" : "https://c.tenor.com/guoEBmJVCtMAAAAC/keira-knightley-happy.gif",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Clarks",
+          "theme" : "Influencers",
+          "img" : "https://i.pinimg.com/736x/f9/a9/2c/f9a92cf5b51aab571be1163bc014373a--clarks.jpg",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Vlodimire Potin",
+          "theme" : "Politicians",
+          "img" : "https://www.power-technology.com/wp-content/uploads/sites/21/2019/07/Putin.jpg",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+          "name" : "Emma Stone",
+          "theme" : "Actresses",
+          "img" : "https://www.premiere.fr/sites/default/files/styles/scale_crop_560x800/public/2018-04/abaca_470832_001.jpg",
+          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Lele Pons",
+        "theme" : "Celebrities",
+        "img" : "https://los40es00.epimg.net/los40/imagenes/2017/04/28/tecnologia/1493383542_624042_1493384245_noticia_normal.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Shakira",
+        "theme" : "Singers",
+        "img" : "https://www.onthisday.com/images/people/shakira-medium.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Rihanna",
+        "theme" : "Singers",
+        "img" : "https://assets.ltkcontent.com/images/14469/21394.rihanna_d48e0dc57d.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Leo Messi",
+        "theme" : "Sports",
+        "img" : "https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/20180419-the18-image-messi.jpg?itok=238EKfRJ",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Rafael Nadal",
+        "theme" : "Sports",
+        "img" : "https://guardian.ng/wp-content/uploads/2019/04/000_1FT0S9.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Mozart",
+        "theme" : "Artists",
+        "img" : "https://usuo.org/app/uploads/sites/2/2011/01/Wolfgang-amadeus-mozart.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "William Shakespeare",
+        "theme" : "Artists",
+        "img" : "https://cdn.12min.com/books/books_background/60830_William_Shakespear.site_cover.jpg?1592248132",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Elon Musk",
+        "theme" : "Celebrities",
+        "img" : "https://imageio.forbes.com/specials-images/imageserve/5f47d4de7637290765bce495/0x0.jpg?format=jpg&crop=2146,2145,x1699,y559,safe&height=416&width=416&fit=bounds",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        },
+        {
+        "name" : "Albert Einstein",
+        "theme" : "Scientists",
+        "img" : "https://i.pinimg.com/236x/96/be/b0/96beb08d45479b5538bc77530e757b91--yousuf-karsh-heroes.jpg",
+        "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+        "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
+        }
+    ]
+}

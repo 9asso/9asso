@@ -1,0 +1,16 @@
+{
+    "data" : [
+        {
+          
+            "network": "admob",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Fake Call Santa",
+            "photo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/Talking_Santa_Icon_2010.jpg",
+            "voice": "https://9asso.github.io/apps/santa.mp3",
+            "video": "https://assets.mixkit.co/videos/preview/mixkit-excited-girl-with-a-stuffed-santa-claus-39747-large.mp4"
+        }
+    ]
+}

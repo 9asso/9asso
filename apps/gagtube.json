@@ -1,0 +1,33 @@
+{
+    "ads" : [
+        {
+          
+            "network": "admob",
+            
+            "fan_ban": "IMG_16_9_APP_INSTALL#294965846134861_319463927018386",
+            "fan_ban_b": "IMG_16_9_APP_INSTALL#294965846134861_319463927018386",
+            "fan_ban_c": "IMG_16_9_APP_INSTALL#294965846134861_319463927018386",
+            
+            "fan_int": "IMG_16_9_APP_INSTALL#294965846134861_319463963685049",
+            "fan_int_b": "IMG_16_9_APP_INSTALL#294965846134861_319463963685049",
+            "fan_int_c": "IMG_16_9_APP_INSTALL#294965846134861_319463963685049",
+            
+            "fan_native": "IMG_16_9_APP_INSTALL#294965846134861_319464047018374",
+            "fan_native_b": "IMG_16_9_APP_INSTALL#294965846134861_319464047018374",
+            "fan_native_c": "IMG_16_9_APP_INSTALL#294965846134861_319464047018374",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban_b": "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban_c": "ca-app-pub-3940256099942544/6300978111",
+            
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_int_b": "ca-app-pub-3940256099942544/1033173712",
+            "admob_int_c": "ca-app-pub-3940256099942544/1033173712",
+            
+            "admob_native": "ca-app-pub-3940256099942544/2247696110",
+            "admob_native_b": "ca-app-pub-3940256099942544/2247696110",
+            "admob_native_c": "ca-app-pub-3940256099942544/2247696110"
+          
+        }
+    ]
+}

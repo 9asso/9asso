@@ -1,0 +1,101 @@
+{
+  "GuideData": {
+  
+    "AdsController": [
+      {
+	     
+	"network": "is",
+
+	"active_ads": "true",
+
+	"is_app_key": "150d72421",
+
+	"max_ban": "41520d44e3d06b49",
+	"max_int": "261588b3776ba31b",
+
+	"is_int": "DefaultInterstitial",
+	"is_ban": "DefaultBanner"
+      }
+    ],
+	
+    "items": [
+      
+      {
+        "title": "This is Title x",
+        "image": "https://kavlifoundation.org/static/173ee2de9af771d67d4e9385ecbf4365/f2e3f/neuron.jpg"
+      },
+      {
+        "title": "This is Title y",
+        "image": "https://media.meer.com/attachments/2e3211397c4c3aec3d09218b1fddf0452895d9bc/store/fill/1090/613/fbf8506c2bcf36eba072bdffb688302eeff15696b902b372bf0b8fba1206/The-field-of-neuroscience-includes-several-approaches.jpg"
+      },
+      {
+        "title": "This is Title z",
+        "image": "https://images.theconversation.com/files/232280/original/file-20180816-2903-8ihfer.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+      }
+      
+      
+      
+    ],
+    
+    "content0": [
+      {
+        "ordered": "image_text",
+        "color": "#0b1b36",
+        "style": "blood",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "10",
+        "right": "0",
+        "text_size": "20",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "https://kavlifoundation.org/static/173ee2de9af771d67d4e9385ecbf4365/f2e3f/neuron.jpg",
+        "text": "The Kavli Foundation Meet the Leaders of the Kavli Neural Systems",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": ""
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "https://media.meer.com/attachments/2e3211397c4c3aec3d09218b1fddf0452895d9bc/store/fill/1090/613/fbf8506c2bcf36eba072bdffb688302eeff15696b902b372bf0b8fba1206/The-field-of-neuroscience-includes-several-approaches.jpg",
+        "text": "Android has evolved a lot over the years and has quickly become the dominant mobile platform across the globe. While most of us know exactly what Android is and how to use it, there are still a number of folks that are new to Googleâ€™s mobile OS, finally ditching that old-school mobile phone or making the move from an iPhone or another Android rival.",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": ""
+      },
+      {
+        "ordered": "image_text",
+        "color": "#1a1b1c",
+        "style": "normal",
+        "gravity": "left",
+        "top": "10",
+        "bottom": "30",
+        "left": "0",
+        "right": "0",
+        "text_size": "15",
+        "image_width": "150",
+        "image_hieght": "100",
+        "image_link": "https://images.theconversation.com/files/232280/original/file-20180816-2903-8ihfer.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+        "text": "Android has evolved a lot over the years and has quickly become the dominant mobile platform across the globe. While most of us know exactly what Android is and how to use it, there are still a number of folks that are new to Googleâ€™s mobile OS, finally ditching that old-school mobile phone or making the move from an iPhone or another Android rival.",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "isNative": ""
+      }
+      
+    ]
+  }
+}

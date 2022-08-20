@@ -1,0 +1,15 @@
+{
+    "data" : [
+        {
+          
+            "network": "is",
+            
+            "active_ads": "true",
+            
+            "is_app_key": "151185031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial"
+          
+        }
+    ]
+}

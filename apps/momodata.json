@@ -7,12 +7,16 @@
             "max_ban": "41520d44e3d06b49",
             "max_int": "261588b3776ba31b",
             
+            "is_app_key": "2386892364823",
+            "is_ban": "2386892364823",
+            "is_int": "2386892364823",
+            
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
 
             "name": "Momo",
             "photo": "https://www.dictionary.com/e/wp-content/uploads/2019/03/Momo-Challenge-2-236x300.jpg",
-            "voice": "https://assets.mixkit.co/videos/preview/mixkit-blogging-girl-down-the-street-with-his-cell-34487-large.mp4",
+            "voice": "https://9asso.github.io/apps/laugh.wav",
             "video": "https://assets.mixkit.co/videos/preview/mixkit-blogging-girl-down-the-street-with-his-cell-34487-large.mp4",
             "stories": [
                 "https://i.kym-cdn.com/photos/images/newsfeed/001/396/293/d6e.gif",
