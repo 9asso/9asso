@@ -42,7 +42,7 @@
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/150/ffffff/erase-image.png",
             "bg" : "#38BDF8"
