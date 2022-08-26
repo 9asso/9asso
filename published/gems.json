@@ -21,6 +21,46 @@
         }
     ],
     
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },
+        {
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },
+        {
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },
+        {
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },
+        {
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },
+        {
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/what.png",
+            "bg" : "#4ADE80"
+        }
+
+    ],
+    
     "data" : [
         {
             "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
