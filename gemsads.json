@@ -27,35 +27,45 @@
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://img.icons8.com/ios/150/ffffff/puzzle.png",
+            "ico" : "https://img.icons8.com/stickers/170/000000/puzzle.png",
             "bg" : "#FBBF24"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://img.icons8.com/ios/150/ffffff/rgb-circle-1.png",
+            "ico" : "https://img.icons8.com/stickers/170/000000/rgb-circle-.png",
             "bg" : "#A3E635"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/150/ffffff/treasure-chest.png",
+            "ico" : "https://img.icons8.com/stickers/170/000000/erase-image.png",
             "bg" : "#38BDF8"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://img.icons8.com/ios/150/ffffff/google-play.png",
+            "ico" : "https://img.icons8.com/stickers/170/000000/where-what-quest.png",
             "bg" : "#2DD4BF"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://img.icons8.com/ios/150/ffffff/what.png",
+            "ico" : "https://img.icons8.com/stickers/170/000000/how-many-quest.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "soon",
+            "ico" : "https://img.icons8.com/stickers/170/000000/joystick.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/stickers/170/000000/google-play.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "diamond",
+            "ico" : "https://img.icons8.com/stickers/170/000000/treasure-chest.png",
             "bg" : "#4ADE80"
         }
 
