@@ -3,9 +3,9 @@
         {
           "click_count" : 3,
           "network" : "max",
-          "iron_key" : "0000000000000",
-          "iron_banner" : "banner",
-          "iron_interstitial" : "inter",
+          "iron_key" : "1644a2dbd",
+          "iron_banner" : "DefaultBanner",
+          "iron_interstitial" : "DefaultInterstitial",
           "max_banner" : "7ae694ffb1650925",
           "max_interstitial" : "4a7a92d641546a41",
           "max_native" : "ab0d2c6a6967147f",
