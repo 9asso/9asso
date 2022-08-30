@@ -12,7 +12,7 @@
           "unity_gi" : "0000000000000",
           "unity_banner" : "banner",
           "unity_interstitial" : "video",
-          "show_update_dialog": "true",
+          "show_update_dialog": "false",
           "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
