@@ -58,6 +58,24 @@
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/150/ffffff/what.png",
             "bg" : "#4ADE80"
+        },
+        {
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/tails.png",
+            "bg" : "#4ADE80"
+        },
+        {
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/star--v1.png",
+            "bg" : "#4ADE80"
+        },
+        {
+            "active" : "true",
+            "name" : "gdpr",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/gdpr.png",
+            "bg" : "#4ADE80"
         }
 
     ],
