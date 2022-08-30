@@ -44,13 +44,13 @@
         {
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/150/ffffff/treasure-chest.png",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://img.icons8.com/ios/150/ffffff/google-play.png",
+            "ico" : "https://img.icons8.com/ios/150/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
