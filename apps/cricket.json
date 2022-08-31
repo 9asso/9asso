@@ -9,9 +9,9 @@
           "max_banner" : "7ae694ffb1650925",
           "max_interstitial" : "4a7a92d641546a41",
           "max_native" : "ab0d2c6a6967147f",
-          "unity_gi" : "0000000000000",
-          "unity_banner" : "banner",
-          "unity_interstitial" : "video",
+          "unity_gi" : "4909265",
+          "unity_banner" : "Banner_Android",
+          "unity_interstitial" : "Interstitial_Android",
           "show_update_dialog": "false",
           "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
