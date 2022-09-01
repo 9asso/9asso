@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "fan",
+          "network" : "yandex",
           "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
           "admob_native" : "ca-app-pub-3940256099942544/2247696110",
           "admob_int" : "ca-app-pub-3940256099942544/1033173712",
@@ -15,7 +15,34 @@
           "face_interstital": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
           "face_native": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
           "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "ironsource_key": "12c959ebd"
+          "ironsource_key": "12c959ebd",
+          "activate_update_app": "false",
+          "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        }
+
     ]
 }
