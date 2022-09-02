@@ -4,7 +4,7 @@
           "activate_ads" : "true",
           "activate_steps" : "false",
           "activate_step_email" : "false",
-          "network" : "admob",
+          "network" : "yandex",
           "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
           "admob_native" : "ca-app-pub-3940256099942544/2247696110",
           "admob_int" : "ca-app-pub-3940256099942544/1033173712",
@@ -60,19 +60,19 @@
             "bg" : "#4ADE80"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "rate",
             "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
             "bg" : "#3F51B5"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "gdpr",
             "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
             "bg" : "#673AB7"
