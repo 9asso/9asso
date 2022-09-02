@@ -1,0 +1,8 @@
+{
+    "config" : [
+        {
+            "int_interval" : 5,
+            "iron_source_key": "12c959ebd"
+        }
+    ]
+}
