@@ -47,42 +47,6 @@
             "name" : "Cat Condo",
             "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
         }
     ],
     
@@ -90,7 +54,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
+            "name" : "Toca Life: World",
             "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
             "img2" : "https://i.gifer.com/BCyK.gif",
             "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
@@ -108,7 +72,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Toca Life: World | SuperParent",
             "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
@@ -135,7 +99,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Toca Life: World Adds a Dentist's",
             "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
@@ -144,7 +108,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
+            "name" : "Explore the World of Toca Boca",
             "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
             "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
             "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
@@ -162,7 +126,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Office for Kids to Explore | SuperParent",
             "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
@@ -171,7 +135,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
+            "name" : "World of Toca Boca - GeekDad",
             "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
             "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
             "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
@@ -189,7 +153,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Toca Life: World Adds a Dentist's",
             "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
@@ -216,7 +180,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Toca Life: World Adds | SuperParent",
             "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
@@ -243,7 +207,7 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "name" : "Toca Life: World Adds a Dentist's Office",
             "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
