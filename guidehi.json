@@ -3,6 +3,8 @@
         {
             "activate_ads" : "true",
             "network" : "admob",
+            "rate_dialog" : "0",
+            "int_interval" : "3",
 
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_int" : "ca-app-pub-3940256099942544/1033173712",
