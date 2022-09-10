@@ -1,0 +1,8 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "true",
+            "activate_force_vpn" : "true"
+        }
+    ]
+}
