@@ -3,7 +3,7 @@
         {
             "activate_vpn" : "true",
             "activate_force_vpn" : "true",
-            "vpn_path" : "https://9asso.github.io/ovpn/uk.ovpn",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "701581328"
         }
