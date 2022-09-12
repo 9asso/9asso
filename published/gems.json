@@ -4,7 +4,7 @@
           "activate_ads" : "true",
           "activate_steps" : "true",
           "activate_step_email" : "false",
-          "network" : "yandex",
+          "network" : "max",
           "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
 
           "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
