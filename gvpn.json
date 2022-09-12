@@ -43,56 +43,47 @@
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "rate",
             "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
             "bg" : "#3F51B5"
-        },
-        {
+        },{
             "active" : "true",
-            "name" : "gdpr",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
+            "name" : "more",
+            "ico" : "https://9asso.github.io/ovpn/menu/more.gif",
             "bg" : "#673AB7"
         }
-
     ],
     
     "scratch" : [
