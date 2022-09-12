@@ -71,7 +71,7 @@
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://9asso.github.io/ovpn/menu/wallpaper.gif",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
@@ -81,7 +81,7 @@
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://9asso.github.io/ovpn/menu/more.gif",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
             "bg" : "#673AB7"
         }
     ],
