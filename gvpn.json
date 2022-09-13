@@ -88,6 +88,39 @@
     
     "more" : [
         {
+            "name" : "Zoopolis: Animal Evolution",
+            "ico" : "https://play-lh.googleusercontent.com/qi9Q5yIgYuSFYOLaRvkrzEWUdIPUoGKZcidP9kP4IRCbLWs7f2vVaMs5_YBWMh5URkU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.azurinteractive.animalsevolution"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+    
+    "games" : [
+        {
             "name" : "Snake.io: Fun Snake .io Games",
             "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
             "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
