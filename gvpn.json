@@ -75,12 +75,12 @@
             "bg" : "#2196F3"
         },{
             "active" : "true",
-            "name" : "rate",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
-            "name" : "more",
+            "name" : "games",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
             "bg" : "#673AB7"
         }
