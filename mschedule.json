@@ -1,0 +1,26 @@
+{
+    "config" : [
+        {
+          "max_ban" : "ceda1a6dd62a0502",
+          "max_native" : "9e27ff985bda79be",
+          "max_int" : "3805b3b693717700"
+        }
+    ],
+
+    "groups" : [
+        {
+            "name" : "Brazil",
+            "flag" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png"
+        },{
+            "name" : "Argentina",
+            "flag" : "http://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080"
+        },{
+            "name" : "France",
+            "flag" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png"
+        },{
+            "name" : "Germany",
+            "flag" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg"
+        }
+    ]
+
+}
