@@ -5,7 +5,10 @@
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "yandex",
+            "network" : "unity",
+
+            "unity_game_id" : "4909265",
+            "unity_int" : "Interstitial_Android",
 
             "yandex_ban" : "R-M-1820435-1",
             "yandex_native" : "R-M-DEMO-native-i",
