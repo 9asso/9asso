@@ -74,22 +74,37 @@
     "custom" : [
         {
             "name" : "Snake.io: Fun Snake .io Games",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
             "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
         },{
             "name" : "Cat Condo",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
             "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
         },{
             "name" : "Power Up: Superhero Challenge",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
             "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
         },{
             "name" : "Stacky Bird: Fun Egg Dash Game",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://static-prod.adweek.com/wp-content/uploads/2019/12/hulu-cheez-it-ad-CONTENT-2019.jpg",
             "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
         },{
             "name" : "Cat Escape",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
             "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
         }
