@@ -8,7 +8,8 @@
             "network" : "yandex",
 
             "unity_game_id" : "4929725",
-            "unity_int" : "Android_Interstitial",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
 
             "yandex_ban" : "R-M-1820435-1",
             "yandex_native" : "R-M-DEMO-native-i",
