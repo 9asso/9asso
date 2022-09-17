@@ -36,6 +36,35 @@
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
+
+    "quizQuestions" : [
+        {
+            "questions" :
+            [
+                { "question" : "true" },
+                { "question" : "true" },
+                { "question" : "true" },
+                { "question" : "true" },
+                { "question" : "true" }
+            ],
+            "answers" :
+            [
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" }
+            ],
+            "options" :
+            [
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
+            ]
+        }
+    ],
     
     "menu" : [
         {
