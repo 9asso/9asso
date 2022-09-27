@@ -43,22 +43,16 @@
             [
                 { "question" : "true" },
                 { "question" : "true" },
-                { "question" : "true" },
-                { "question" : "true" },
                 { "question" : "true" }
             ],
             "answers" :
             [
                 { "answer" : "true" },
                 { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" },
                 { "answer" : "true" }
             ],
             "options" :
             [
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
                 { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
