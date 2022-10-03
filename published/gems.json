@@ -1,10 +1,17 @@
 {
     "config" : [
         {
+            "activate_vpn" : "true",
+            "activate_force_vpn" : "true",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "204703142",
+
             "int_interval" : 5,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "yandex",
 
             "admob_ban" : "ca-app-pub-9418361220918341/3488363143",
@@ -25,10 +32,62 @@
 
             "iron_source_key": "168e4ab9d",
 
-            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "main_ico": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+
+    "quizquestions" : [
+        {
+            "questions" :
+            [
+                { "question" : "q1" },
+                { "question" : "q2" },
+                { "question" : "q3" }
+            ],
+            "answers" :
+            [
+                { "answer" : "a1" },
+                { "answer" : "a2" },
+                { "answer" : "a3" }
+            ],
+            "options" :
+            [
+                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
+                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
+                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
+            ]
+        }
+    ],
+
+    "quizimages" : [
+        {
+            "images" :
+            [
+                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
+                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
+                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" }
+            ],
+            "answers" :
+            [
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" }
+            ],
+            "options" :
+            [
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
+            ]
         }
     ],
     
@@ -38,69 +97,140 @@
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
-        },
-        {
+        },{
             "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
-        },
-        {
+        },{
             "active" : "true",
-            "name" : "rate",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
             "bg" : "#3F51B5"
-        },
-        {
+        },{
             "active" : "true",
-            "name" : "gdpr",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
+            "name" : "games",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
             "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Zoopolis: Animal Evolution",
+            "ico" : "https://play-lh.googleusercontent.com/qi9Q5yIgYuSFYOLaRvkrzEWUdIPUoGKZcidP9kP4IRCbLWs7f2vVaMs5_YBWMh5URkU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.azurinteractive.animalsevolution"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+    
+    "games" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
         }
 
     ],
     
     "scratch" : [
         {
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+            "img" : "https://media.istockphoto.com/vectors/scratch-and-win-letters-scratched-effect-background-and-stars-place-vector-id985966248?k=20&m=985966248&s=612x612&w=0&h=mQlnhRg3AvHwV_lKVS-YDuErpY35LeGie2VKezaSX0Q="
         },{
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+            "img" : "https://thumbs.dreamstime.com/b/scratch-win-letters-scratched-effect-background-stars-scratch-win-letters-scratched-effect-background-stars-ribbon-120022586.jpg"
         },{
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+            "img" : "https://cdn.appsmav.com/win/upload/img/242/42/6242_scratch_1559542007.png"
         },{
-            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+            "img" : "https://play-lh.googleusercontent.com/wsm1brgFhjT-1_czu_JpoUVnthTafMWVCidTnrYwsR6djLUwggqIGDmlwhrnbRa0eTQ"
         },{
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+            "img" : "https://play-lh.googleusercontent.com/H4ql9I6x-3x_AIM6HUPyzX7Wqral-yEazluTt_-rIzn5_U8NIYOh8QsjzHd-75S6-ks"
         }
     ],
 
@@ -310,5 +440,5 @@
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         }
-      ]
+    ]
 }
