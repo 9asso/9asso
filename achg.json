@@ -104,7 +104,7 @@
             "bg" : "#38BDF8"
         },{
             "active" : "true",
-            "active_reward" : "true",
+            "active_reward" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
