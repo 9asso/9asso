@@ -2,6 +2,7 @@
     "config" : [
         {
           "click_count" : 3,
+          "max_inters" : 7,
           "network" : "max",
           "custom_banner" : "on",
 
