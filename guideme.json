@@ -3,16 +3,22 @@
         {
           "click_count" : 3,
           "network" : "max",
+          "custom_banner" : "on",
+
           "iron_key" : "121f62515",
           "iron_banner" : "DefaultBanner",
           "iron_interstitial" : "DefaultInterstitial",
+
           "max_banner" : "d8d68677d728ab59",
           "max_interstitial" : "17873f3393b7ef1f",
           "max_native" : "0b4f4e692976c844",
+
           "unity_gi" : "4770838",
           "unity_banner" : "Banner_Android",
           "unity_interstitial" : "Interstitial_Android",
-          "custom_banner" : "on",
+
+          "one_signal" : "832601482634",
+          
           "show_update_dialog": "true",
           "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
@@ -65,9 +71,8 @@
             "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
         }
-
     ],
-    
+
     "data" : [
         {
             "html" : "https://9asso.github.io/poppyguide/guide_7.html",
