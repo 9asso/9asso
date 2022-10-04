@@ -19,7 +19,7 @@
 
           "one_signal" : "832601482634",
           
-          "show_update_dialog": "true",
+          "show_update_dialog": "false",
           "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
