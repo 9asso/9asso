@@ -3,7 +3,7 @@
         {
           "click_count" : 3,
           "max_inters" : 7,
-          "network" : "max",
+          "network" : "is",
           "custom_banner" : "on",
 
           "iron_key" : "121f62515",
