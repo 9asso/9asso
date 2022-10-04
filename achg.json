@@ -80,46 +80,55 @@
     "menu" : [
         {
             "active" : "true",
+            "active_reward" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
         },{
             "active" : "true",
+            "active_reward" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
+            "active_reward" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
+            "active_reward" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
+            "active_reward" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
+            "active_reward" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
+            "active_reward" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
+            "active_reward" : "true",
             "name" : "more",
             "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
+            "active_reward" : "true",
             "name" : "games",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
             "bg" : "#673AB7"
