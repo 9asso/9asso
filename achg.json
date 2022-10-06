@@ -16,7 +16,9 @@
             "unity_banner" : "Banner_Android",
             "unity_interstitial" : "Interstitial_Android",
 
-            "iron_source_key": "168e4ab9d",
+            "iron_key": "168e4ab9d",
+            "iron_banner" : "DefaultBanner",
+            "iron_interstitial" : "DefaultInterstitial",
 
             "main_ico": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png",
             
