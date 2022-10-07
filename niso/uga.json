@@ -8,9 +8,9 @@
             "one_signal" : "0000000",
             "network" : "admob",
 
-            "admob_ban" : "ca-app-pub-9418361220918341/3488363143",
-            "admob_native" : "ca-app-pub-9418361220918341/9439527978",
-            "admob_int" : "ca-app-pub-9418361220918341/4378772984",
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
             
             "yandex_ban" : "R-M-1820435-1",
             "yandex_native" : "R-M-1820435-2",
