@@ -97,7 +97,7 @@
             "active_reward" : "false",
             "name" : "Guide Tips",
             "ico" : "",
-            "bg" : "#FB923C"
+            "bg" : "#ca45ca"
         },{
             "active" : "true",
             "active_reward" : "true",
@@ -109,7 +109,7 @@
             "active_reward" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
-            "bg" : "#A3E635"
+            "bg" : "#FB923C"
         },{
             "active" : "true",
             "active_reward" : "false",
