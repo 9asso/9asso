@@ -100,15 +100,15 @@
             "bg" : "#FB923C"
         },{
             "active" : "true",
-            "active_reward" : "false",
-            "name" : "puzzle",
-            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
-            "bg" : "#ffffff"
-        },{
-            "active" : "true",
             "active_reward" : "true",
             "name" : "spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "puzzle",
+            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
