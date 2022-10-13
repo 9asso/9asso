@@ -130,6 +130,12 @@
             "bg" : "#ffffff"
         },{
             "active" : "true",
+            "active_reward" : "false",
+            "name" : "more",
+            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "false",
             "active_reward" : "true",
             "name" : "wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
@@ -139,12 +145,6 @@
             "active_reward" : "true",
             "name" : "games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
-            "bg" : "#ffffff"
-        },{
-            "active" : "true",
-            "active_reward" : "false",
-            "name" : "more",
-            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#ffffff"
         }
     ],
