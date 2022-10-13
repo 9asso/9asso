@@ -103,49 +103,49 @@
             "active_reward" : "false",
             "name" : "puzzle",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
-            "bg" : "#FBBF24"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
-            "bg" : "#A3E635"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "false",
             "name" : "scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
-            "bg" : "#38BDF8"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "false",
             "name" : "questions",
             "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
-            "bg" : "#2DD4BF"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "quiz",
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
-            "bg" : "#4ADE80"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
-            "bg" : "#2196F3"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "false",
             "name" : "more",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
-            "bg" : "#3F51B5"
+            "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "true",
             "name" : "games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
-            "bg" : "#673AB7"
+            "bg" : "#ffffff"
         }
     ],
     
