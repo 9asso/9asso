@@ -9,14 +9,17 @@
           "iron_key" : "121f62515",
           "iron_banner" : "DefaultBanner",
           "iron_interstitial" : "DefaultInterstitial",
+          "iron_rewarded" : "DefaultRewardedVideo",
 
           "max_banner" : "d8d68677d728ab59",
           "max_interstitial" : "17873f3393b7ef1f",
           "max_native" : "0b4f4e692976c844",
+          "max_rewarded" : "ef057486fa457223",
 
           "unity_gi" : "4770838",
           "unity_banner" : "Banner_Android",
           "unity_interstitial" : "Interstitial_Android",
+          "unity_rewarded" : "Rewarded_Android",
 
           "one_signal" : "832601482634",
           
