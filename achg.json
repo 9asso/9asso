@@ -11,19 +11,23 @@
             "max_ban" : "1a593bb60c856841",
             "max_native" : "d7829ead92ff2007",
             "max_int" : "ef057486fa457223",
+            "max_rewarded" : "ef057486fa457223",
 
             "unity_gi" : "4770838",
             "unity_banner" : "Banner_Android",
             "unity_interstitial" : "Interstitial_Android",
+            "unity_rewarded" : "Rewarded_Android",
 
             "iron_key": "168e4ab9d",
             "iron_banner" : "DefaultBanner",
             "iron_interstitial" : "DefaultInterstitial",
-
-            "main_ico": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png",
+            "iron_rewarded" : "DefaultRewardedVideo",
             
+            "update_app_int_interval": 7,
             "activate_update_app": "false",
-            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
+
+            "main_ico": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png"
         }
     ],
 
@@ -139,9 +143,9 @@
     
     "more" : [
         {
-            "name" : "Zoopolis: Animal Evolution",
-            "ico" : "https://play-lh.googleusercontent.com/qi9Q5yIgYuSFYOLaRvkrzEWUdIPUoGKZcidP9kP4IRCbLWs7f2vVaMs5_YBWMh5URkU=s480-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.azurinteractive.animalsevolution"
+            "name" : "Gems Diamond for Stumble Guyz",
+            "ico" : "https://play-lh.googleusercontent.com/wT8PLzvFsr5-GM1MzxLYQreo2-N5HOcRQEe4hamjMJOqtTvVQqOOh6SN909c375VCfY=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ks.apps.gemsimada"
         },{
             "name" : "Yes or No?! - Food Pranks",
             "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
