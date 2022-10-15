@@ -12,7 +12,7 @@
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "d017388c-1027-4900-a0a5-f5cc29ffc6d5",
-            "network" : "fan",
+            "network" : "is",
 
             "am_ban" : "/6499/example/banner",
             "am_int" : "/6499/example/interstitial",
