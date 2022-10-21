@@ -280,6 +280,7 @@
     
     "chapter1" : [
         {
+            "active_reward" : "false",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life World APK guide",
@@ -289,6 +290,7 @@
             "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
         },
         {
+            "active_reward" : "false",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
@@ -298,6 +300,7 @@
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
+            "active_reward" : "false",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Explore the World of Toca Boca - GeekDad",
@@ -307,6 +310,7 @@
             "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
         },
         {
+            "active_reward" : "true",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life World APK guide",
@@ -316,6 +320,7 @@
             "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
         },
         {
+            "active_reward" : "true",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
@@ -328,6 +333,7 @@
     
     "chapter2" : [
         {
+            "active_reward" : "false",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
@@ -337,6 +343,7 @@
             "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
         },
         {
+            "active_reward" : "false",
             "url" : "",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life World APK guide",
@@ -346,6 +353,7 @@
             "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
         },
         {
+            "active_reward" : "true",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
             "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
@@ -355,6 +363,7 @@
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
+            "active_reward" : "false",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Explore the World of Toca Boca - GeekDad",
@@ -364,6 +373,7 @@
             "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
         },
         {
+            "active_reward" : "true",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life World APK guide",
@@ -373,6 +383,7 @@
             "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
         },
         {
+            "active_reward" : "false",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
@@ -382,6 +393,7 @@
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
+            "active_reward" : "true",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Explore the World of Toca Boca - GeekDad",
@@ -391,6 +403,7 @@
             "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
         },
         {
+            "active_reward" : "true",
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life World APK guide",
