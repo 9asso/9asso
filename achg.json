@@ -6,7 +6,7 @@
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "0000000",
-            "network" : "max",
+            "network" : "is",
 
             "max_ban" : "1a593bb60c856841",
             "max_native" : "d7829ead92ff2007",
