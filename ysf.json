@@ -86,5 +86,24 @@
             "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
         }
 
+    ],
+
+    "slider" : [
+        {
+            "image" : "https://cdna.artstation.com/p/assets/images/images/030/699/992/large/tanya-grineva-194004-3-147-142240-dragons-wa9.jpg?1601391035",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://papyrus.greenville.edu/wp-content/uploads/2017/02/rsz_clash-royale.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://mytona.com/images/imperavi/article/5e05f667acdc3.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://i.ytimg.com/vi/5zZmpYzvAYA/maxresdefault.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        }
     ]
 }
