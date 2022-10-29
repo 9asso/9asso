@@ -10,7 +10,12 @@
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
 
             "ad_image" : "https://i.pinimg.com/originals/06/9d/61/069d617dca720be2d65014963515d28e.gif",
-            "ad_link" : "https://www.kimp.io/gif-marketing/"
+            "ad_link" : "https://www.kimp.io/gif-marketing/",
+
+            "ad_score_amount" : 1,
+            "ad_game_minutes" : 2,
+            "ad_int_interval" : 5
+        
         }
     ],
 
