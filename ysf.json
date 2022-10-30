@@ -12,6 +12,21 @@
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
             "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
 
+            "yandex_ban" : "R-M-DEMO-320x50",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+            "yandex_rewarded" : "R-M-DEMO-rewarded",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_rewarded": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_key": "168e4ab9d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+            "iron_rewarded" : "DefaultRewardedVideo",
+
             "ad_image" : "https://i.pinimg.com/originals/06/9d/61/069d617dca720be2d65014963515d28e.gif",
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
