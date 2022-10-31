@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             
             "network" : "admob",
 
