@@ -19,6 +19,10 @@
             "yandex_native" : "R-M-DEMO-native-i",
             "yandex_int" : "R-M-DEMO-interstitial",
 
+            "iron_key": "168e4ab9d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
             "max_ban" : "ceda1a6dd62a0502",
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
