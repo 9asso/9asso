@@ -1,10 +1,11 @@
 {
     "ads" : [
         {
+            "demo" : "true",
             "activate_ads" : "true",
             "activate_ads_game" : "false",
             
-            "network" : "admob",
+            "network" : "yandex",
 
             "one_signal" : "000000000",
             
