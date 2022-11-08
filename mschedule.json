@@ -160,6 +160,45 @@
             "group" : "Group B",
             "stadium" : "Al Bayt Stadium"
         }
+    ],
+
+    "servers" : [
+        {
+            "title" : "Bein Sport 1",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/300px-Logo_bein_sports_1.png?20170228135319",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "embed"
+        },
+        {
+            "title" : "Bein Sport 2 FR",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/300px-Logo_bein_sports_2.png?20170228135704",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "direct"
+        },
+        {
+            "title" : "Bein Sport 3 HD",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/300px-Logo_bein_sports_3.png?20170228140009",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "embed"
+        },
+        {
+            "title" : "Bein Sport 4 Ar",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/300px-Logo_bein_sports_4.png?20170228140245",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "direct"
+        },
+        {
+            "title" : "Bein Sport Es HD",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/300px-BeIN_Sports_En_Espa%C3%B1ol.png?20210709132434",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "direct"
+        },
+        {
+            "title" : "Bein Sport Haber",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png?20220224074056",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "embed"
+        }
     ]
 
 }
