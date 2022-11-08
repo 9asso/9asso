@@ -7,136 +7,6 @@
         }
     ],
 
-    "groupa" : [
-        {
-            "teams" : [
-                {
-                    "name" : "Brazil",
-                    "flag" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png"
-                },{
-                    "name" : "Argentina",
-                    "flag" : "https://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080"
-                },{
-                    "name" : "France",
-                    "flag" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png"
-                },{
-                    "name" : "Germany",
-                    "flag" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg"
-                }
-            ],
-            "matches" : [
-                {
-                    "team_a" : "Argentina",
-                    "team_b" : "France",
-                    "flag_a" : "http://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080",
-                    "flag_b" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "Germany",
-                    "team_b" : "Brazil",
-                    "flag_a" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg",
-                    "flag_b" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "France",
-                    "team_b" : "Brazil",
-                    "flag_a" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png",
-                    "flag_b" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "Germany",
-                    "team_b" : "Argentina",
-                    "flag_a" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg",
-                    "flag_b" : "http://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "France",
-                    "team_b" : "Germany",
-                    "flag_a" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png",
-                    "flag_b" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "Brazil",
-                    "team_b" : "Argentina",
-                    "flag_a" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png",
-                    "flag_b" : "http://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                }
-            ]
-        }
-    ],
-
-    "groupb" : [
-        {
-            "teams" : [
-                {
-                    "name" : "Brazil",
-                    "flag" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png"
-                },{
-                    "name" : "Argentina",
-                    "flag" : "https://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080"
-                },{
-                    "name" : "France",
-                    "flag" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png"
-                },{
-                    "name" : "Germany",
-                    "flag" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg"
-                }
-            ],
-            "matches" : [
-                {
-                    "team_a" : "Argentina",
-                    "team_b" : "France",
-                    "flag_a" : "http://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080",
-                    "flag_b" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "Germany",
-                    "team_b" : "Brazil",
-                    "flag_a" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg",
-                    "flag_b" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "France",
-                    "team_b" : "Brazil",
-                    "flag_a" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png",
-                    "flag_b" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "Germany",
-                    "team_b" : "Argentina",
-                    "flag_a" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg",
-                    "flag_b" : "http://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "France",
-                    "team_b" : "Germany",
-                    "flag_a" : "https://stickerart.com.au/images/temp/images-products-D1010-0814-france-w500-c0.png",
-                    "flag_b" : "https://thenationonlineng.net/wp-content/uploads/2020/03/germany-flag.jpg",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                },{
-                    "team_a" : "Brazil",
-                    "team_b" : "Argentina",
-                    "flag_a" : "https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png",
-                    "flag_b" : "http://cdn.shopify.com/s/files/1/0802/9923/products/argentinaflag_grande.gif?v=1487800080",
-                    "date" : "25 November 18:00",
-                    "stadium" : "Al Bayt Stadium"
-                }
-            ]
-        }
-    ],
-
     "groups" : [
         {
             "groupa" : [
@@ -259,6 +129,18 @@
                     "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/south-korea.png"
                 }
             ]
+        }
+    ],
+
+    "matches" : [
+        {
+            "team_a" : "Qatar",
+            "team_b" : "Ecuador",
+            "flag_a" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/qatar.png",
+            "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ecuador.png",
+            "date" : "Sun, Nov 20 17:00",
+            "group" : "Group A",
+            "stadium" : "Al Bayt Stadium"
         }
     ]
 
