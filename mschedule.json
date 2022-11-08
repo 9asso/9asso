@@ -198,6 +198,30 @@
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png?20220224074056",
             "link" : "https://youtu.be/VenNyElILlM",
             "type" : "embed"
+        },
+        {
+            "title" : "Sport+",
+            "ico" : "https://e7.pngegg.com/pngimages/60/763/png-clipart-television-channel-logo-sport-sports-logo-television-blue.png",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "embed"
+        },
+        {
+            "title" : "MNC Sports 1",
+            "ico" : "https://img.favpng.com/13/0/17/mnc-sports-mnc-channels-television-channel-png-favpng-n1AuC3tqsMQVpW2nA9px2gkmj.jpg",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "embed"
+        },
+        {
+            "title" : "Sky Sports",
+            "ico" : "https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt9e258f9dbc43612f/603d748dff74f15954098bb7/PremierLeague_ModalChannelLogo.png",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "embed"
+        },
+        {
+            "title" : "Fox Sports 3 HD",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",
+            "link" : "https://youtu.be/VenNyElILlM",
+            "type" : "embed"
         }
     ]
 
