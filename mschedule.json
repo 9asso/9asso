@@ -138,7 +138,7 @@
             "team_b" : "Ecuador",
             "flag_a" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/qatar.png",
             "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ecuador.png",
-            "date" : "Sun, Nov 20 17:00",
+            "date" : "Sun 20 Nov-17:00",
             "group" : "Group A",
             "stadium" : "Al Bayt Stadium"
         },
@@ -147,7 +147,7 @@
             "team_b" : "Tunisia",
             "flag_a" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/brazil.png",
             "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/tunisia.png",
-            "date" : "Sun, Nov 20 17:00",
+            "date" : "Sun 20 Nov-19:00",
             "group" : "Group C",
             "stadium" : "Al Bayt Stadium"
         },
@@ -156,7 +156,7 @@
             "team_b" : "Canada",
             "flag_a" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/morocco.png",
             "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/canada.png",
-            "date" : "Sun, Nov 20 17:00",
+            "date" : "Sun 20 Nov-21:00",
             "group" : "Group B",
             "stadium" : "Al Bayt Stadium"
         }
