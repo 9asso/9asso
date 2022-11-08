@@ -223,6 +223,33 @@
             "link" : "https://youtu.be/VenNyElILlM",
             "type" : "embed"
         }
+    ],
+    
+    "news" : [
+        {
+            "title" : "World Cup 2022 takes place in Qatar from November 20 to December 18",
+            "img" : "https://e0.365dm.com/22/10/2048x1152/skysports-world-cup-qatar-2022_5921764.jpg?20221006085810",
+            "details" : "The 2022 World Cup in Qatar kicks off on Sunday November 20 at the Al Bayt Stadium when the hosts take on Ecuador in Group A.The tournament was originally set to begin a day later with Senegal's game against the Netherlands at Al Thumama Stadium but Qatar's match was moved forward to allow them to open their home tournament. England will now feature on the second day with their Group B match against Iran scheduled to take place on Monday November 21 with a 1pm UK time kick-off. The game is just eight days after the Premier League shuts down After qualifying via the play-offs, Wales' first game will also be on Monday November 21.",
+            "referral" : "https://www.skysports.com/football/news/11095/12354033/world-cup-2022-dates-draw-schedule-kick-off-times-final-for-qatar-tournament"
+        },
+        {
+            "title" : "Qatar World Cup ambassador criticised for ‘harmful’ homosexuality comments",
+            "img" : "https://i.guim.co.uk/img/media/e7e7cb30f7f42ec9d2435df0ae988acb1d810325/0_145_3500_2100/master/3500.jpg?width=620&quality=45&dpr=2&s=none",
+            "details" : "Remarks by a Qatar World Cup ambassador have been called “harmful and unacceptable” after he described homosexuality as “damage in the mind”. Khalid Salman, a former Qatar international footballer, made the comments in an interview with the German broadcaster ZDF. Asked about the fact that homosexuality is illegal in his country, Salman said: “They have to accept our rules here. [Homosexuality] is haram. You know what haram means?” When asked why it was haram, or forbidden, Khalid Salman said: “I am not a strict Muslim but why is it haram? Because it is damage in the mind.” Salman was speaking in his capacity as an ambassador for the 2022 World Cup, a role he shares with a number of football legends including Cafu and Xavi Hernández. Organisers described the role of ambassador as “harnessing the power of football to create positive social change in Qatar, across the region and around the globe”. Rasha Younes of the LGBT rights program at Human Rights Watch said: “Salman’s suggestion that same-sex attraction is ‘damage in the mind’ is harmful and unacceptable.” Last month HRW published a report documenting what it claimed was “arbitrary” police action against LGBTQ+ residents in Qatar, including six cases of severe and repeated beatings and five cases of sexual harassment in police custody between 2019 and 2022. A Qatari official said HRW’s allegations “contain information that is categorically and unequivocally false”, without specifying. Fans hoping to travel to the World Cup have also expressed concerns over safety in the country. Documents seen by the Guardian suggest police will be told not to take action against public displays of affection or those who protest for LGBTQ+ rights.",
+            "referral" : "https://www.theguardian.com/football/2022/nov/08/qatar-world-cup-ambassador-homosexuality"
+        },
+        {
+            "title" : "Awarding Qatar the tournament was a mistake, says former Fifa president Sepp Blatter",
+            "img" : "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/171D6/production/_127287649_drawgraphic.jpg",
+            "details" : "Blatter, 86, was president of world football's governing body when Qatar was awarded the tournament in 2010. The Gulf state has been criticised for its stance on same-sex relationships, human rights record and treatment of migrant workers. Qatar World Cup ambassador Khalid Salman has said that homosexuality is damage in the mind. The former Qatar international told German broadcaster ZDF that LGBTQ+ people attending the tournament should accept our rules. There is concern about how LGBTQ+ people are treated in Qatar, where same-sex relationships and the promotion of same-sex relationships are criminalised, with punishments ranging from fines to the death sentence..",
+            "referral" : "https://www.bbc.com/sport/football/63554507"
+        },
+        {
+            "title" : "World Cup 2022: Day-by-day fixture & TV guide",
+            "img" : "https://ichef.bbci.co.uk/onesport/cps/976/cpsprodpb/6F0C/production/_123982482_gettyimages-999517576.jpg",
+            "details" : "The tournament kicks off on 20 November with hosts Qatar facing Ecuador. England and Wales are in action the following day against Iran and the United States respectively in Group B. But where can you watch those games? When are the other group fixtures? What day do the knockout rounds start? And when is the final? BBC Sport provides you with all the fixture and TV information available for the first World Cup to be held outside the northern hemisphere summer.",
+            "referral" : "https://www.bbc.com/sport/football/60959746"
+        }
     ]
 
 }
