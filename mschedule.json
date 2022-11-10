@@ -187,8 +187,8 @@
     "servers" : [
         {
             "title" : "Bein Sport 1",
-            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
-            "link" : "https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_30mb.mp4",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/300px-Logo_bein_sports_1.png?20170228135319",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "type" : "direct"
         },
         {
@@ -205,8 +205,8 @@
         },
         {
             "title" : "Bein Sport 2 FR",
-            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/300px-Logo_bein_sports_2.png?20170228135704",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "type" : "direct"
         },
         {
@@ -229,14 +229,14 @@
         },
         {
             "title" : "Bein Sport 4 Ar",
-            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/300px-Logo_bein_sports_4.png?20170228140245",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "type" : "direct"
         },
         {
             "title" : "Bein Sport Es HD",
-            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/300px-BeIN_Sports_En_Espa%C3%B1ol.png?20210709132434",
             "type" : "direct"
         },
         {
