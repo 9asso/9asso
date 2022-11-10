@@ -165,62 +165,62 @@
     "servers" : [
         {
             "title" : "Bein Sport 1",
-            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/300px-Logo_bein_sports_1.png?20170228135319",
+            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "link" : "https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_30mb.mp4",
             "type" : "direct"
         },
         {
             "title" : "Sport+",
             "ico" : "https://e7.pngegg.com/pngimages/60/763/png-clipart-television-channel-logo-sport-sports-logo-television-blue.png",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
             "type" : "embed"
         },
         {
             "title" : "MNC Sports 1",
             "ico" : "https://img.favpng.com/13/0/17/mnc-sports-mnc-channels-television-channel-png-favpng-n1AuC3tqsMQVpW2nA9px2gkmj.jpg",
-            "link" : "https://iptv-org.github.io/iptv/categories/sports.m3u",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
             "type" : "embed"
         },
         {
             "title" : "Bein Sport 2 FR",
-            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/300px-Logo_bein_sports_2.png?20170228135704",
+            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "link" : "https://youtu.be/VenNyElILlM",
             "type" : "direct"
         },
         {
             "title" : "Bein Sport 3 HD",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/300px-Logo_bein_sports_3.png?20170228140009",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
             "type" : "embed"
         },
         {
             "title" : "Sky Sports",
             "ico" : "https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt9e258f9dbc43612f/603d748dff74f15954098bb7/PremierLeague_ModalChannelLogo.png",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
             "type" : "embed"
         },
         {
             "title" : "Fox Sports 3 HD",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
             "type" : "embed"
         },
         {
             "title" : "Bein Sport 4 Ar",
-            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/300px-Logo_bein_sports_4.png?20170228140245",
+            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "link" : "https://youtu.be/VenNyElILlM",
             "type" : "direct"
         },
         {
             "title" : "Bein Sport Es HD",
-            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/300px-BeIN_Sports_En_Espa%C3%B1ol.png?20210709132434",
+            "ico" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "link" : "https://youtu.be/VenNyElILlM",
             "type" : "direct"
         },
         {
             "title" : "Bein Sport Haber",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png?20220224074056",
-            "link" : "https://youtu.be/VenNyElILlM",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
             "type" : "embed"
         }
     ],
