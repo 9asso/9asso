@@ -195,13 +195,13 @@
             "title" : "Sport+",
             "ico" : "https://e7.pngegg.com/pngimages/60/763/png-clipart-television-channel-logo-sport-sports-logo-television-blue.png",
             "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
-            "type" : "iptv"
+            "type" : "direct"
         },
         {
             "title" : "MNC Sports 1",
             "ico" : "https://img.favpng.com/13/0/17/mnc-sports-mnc-channels-television-channel-png-favpng-n1AuC3tqsMQVpW2nA9px2gkmj.jpg",
-            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
-            "type" : "embed"
+            "link" : "https://iptv-org.github.io/iptv/index.m3u",
+            "type" : "direct"
         },
         {
             "title" : "Bein Sport 2 FR",
@@ -212,8 +212,8 @@
         {
             "title" : "Bein Sport 3 HD",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/300px-Logo_bein_sports_3.png?20170228140009",
-            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
-            "type" : "embed"
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "type" : "direct"
         },
         {
             "title" : "Sky Sports",
@@ -224,8 +224,8 @@
         {
             "title" : "Fox Sports 3 HD",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",
-            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
-            "type" : "embed"
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "type" : "direct"
         },
         {
             "title" : "Bein Sport 4 Ar",
@@ -235,15 +235,15 @@
         },
         {
             "title" : "Bein Sport Es HD",
-            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/300px-BeIN_Sports_En_Espa%C3%B1ol.png?20210709132434",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
             "type" : "direct"
         },
         {
             "title" : "Bein Sport Haber",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png?20220224074056",
-            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
-            "type" : "embed"
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "type" : "direct"
         }
     ],
     
