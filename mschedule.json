@@ -194,8 +194,8 @@
         {
             "title" : "Sport+",
             "ico" : "https://e7.pngegg.com/pngimages/60/763/png-clipart-television-channel-logo-sport-sports-logo-television-blue.png",
-            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
-            "type" : "embed"
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "type" : "iptv"
         },
         {
             "title" : "MNC Sports 1",
