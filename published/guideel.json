@@ -212,10 +212,10 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Toca Life: World",
             "img1" : "https://media1.popsugar-assets.com/files/thumbor/z5oKgNC9S4DS6Bay78Aoy5aLO4s/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2017/01/26/813/n/1922283/055dc333c3280d59_BeautyAndTheBeast58726d5b9fac8/i/Beauty-Beast-2017-Movie-Posters.jpg",
             "img2" : "",
@@ -224,9 +224,9 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Disney's live-action Beauty and the Beast",
             "img1" : "https://cdn.shopify.com/s/files/1/0969/9128/products/Dora_The_Explorer_And_The_Lost_City_Of_Gold_-_Hollywood_English_Movie_Poster_1_66c87e56-24a2-4135-b709-a6b98a7f7bce.jpg?v=1577693664",
             "img2" : "",
@@ -234,10 +234,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Joker - Put On A Happy Face - Joaquin Phoenix",
             "img1" : "https://cdn.shopify.com/s/files/1/0969/9128/products/Joker_-_Put_On_A_Happy_Face_-_Joaquin_Phoenix_-_Hollywood_English_Movie_Poster_3_de5e4cfc-cfd4-4732-aad1-271d6bdb1587.jpg?v=1579504979",
             "img2" : "",
