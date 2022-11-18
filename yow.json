@@ -3,7 +3,7 @@
         {
             "activate_ads" : "true",
             
-            "network" : "max",
+            "network" : "admob",
 
             "interstitial_interval" : 5,
 
