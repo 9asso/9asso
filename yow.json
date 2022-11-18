@@ -7,8 +7,8 @@
 
             "interstitial_interval" : 5,
 
-            "max_banner" : "d8d68677d728ab59",
-            "max_interstitial" : "17873f3393b7ef1f",
+            "max_ban" : "d8d68677d728ab59",
+            "max_int" : "17873f3393b7ef1f",
             "max_native" : "0b4f4e692976c844",
 
             "image_a" : "https://i.pinimg.com/originals/42/ff/47/42ff4738e14d80e7a85ac296547f3a84.jpg",
