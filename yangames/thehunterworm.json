@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "demo" : "false",
+            "demo" : "true",
             "activate_ads" : "true",
             "activate_ads_game" : "true",
             "activate_banner" : "off",
@@ -41,7 +41,7 @@
 
             "orientation": "landscape",
 
-            "game_name": "The Hunter Worm - Snake io Zone",
+            "game_name": "The Hunter Worm - Snake Game",
             "game_cover": "https://img.gamedistribution.com/featured/7a03f98dcaa14dee9473508e29d7fa4d.jpg",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://wormhunt.club/game/web/",
