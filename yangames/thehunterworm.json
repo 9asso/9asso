@@ -179,7 +179,7 @@
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
             "bg" : "#ffffff"
         },{
-            "active" : "false",
+            "active" : "true",
             "active_reward" : "true",
             "name" : "wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
