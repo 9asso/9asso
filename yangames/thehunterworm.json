@@ -168,7 +168,7 @@
             "bg" : "#ffffff"
         },{
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#ffffff"
@@ -180,7 +180,7 @@
             "bg" : "#ffffff"
         },{
             "active" : "true",
-            "active_reward" : "true",
+            "active_reward" : "false",
             "name" : "Wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#ffffff"
