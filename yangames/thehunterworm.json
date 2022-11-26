@@ -151,37 +151,37 @@
         {
             "active" : "true",
             "active_reward" : "true",
-            "name" : "spinner",
+            "name" : "Spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "false",
-            "name" : "puzzle",
+            "name" : "Puzzle",
             "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "false",
-            "name" : "questions",
+            "name" : "Questions",
             "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "false",
-            "name" : "scratch",
+            "name" : "Scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "true",
-            "name" : "quiz",
+            "name" : "Quiz",
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "true",
-            "name" : "wallpapers",
+            "name" : "Wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#ffffff"
         }
