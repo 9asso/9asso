@@ -145,5 +145,45 @@
             "image" : "https://i.ytimg.com/vi/5zZmpYzvAYA/maxresdefault.jpg",
             "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
         }
+    ],
+
+    "menu" : [
+        {
+            "active" : "true",
+            "active_reward" : "true",
+            "name" : "spinner",
+            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "puzzle",
+            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "scratch",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "questions",
+            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "true",
+            "active_reward" : "true",
+            "name" : "quiz",
+            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
+            "bg" : "#ffffff"
+        },{
+            "active" : "false",
+            "active_reward" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "bg" : "#ffffff"
+        }
     ]
 }
