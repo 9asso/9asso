@@ -163,14 +163,14 @@
         },{
             "active" : "true",
             "active_reward" : "false",
-            "name" : "scratch",
-            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "name" : "questions",
+            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "active_reward" : "false",
-            "name" : "questions",
-            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "name" : "scratch",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
