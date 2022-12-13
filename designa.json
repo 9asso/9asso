@@ -8,7 +8,7 @@
             "vpn_password" : "204703142",
 
             "int_interval" : 5,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
