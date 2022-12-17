@@ -94,7 +94,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
