@@ -57,13 +57,8 @@ public class WebViewPortrait extends AppCompatActivity implements WebViewPresent
         View.OnCreateContextMenuListener, DownloadListener {
 
     private View decorView;
-    Ads ads = new Ads();
-    private TextView counter;
     private WebView mWebView;
-    private LinearLayout root;
-//    private FrameLayout frameLayout;
-//    boolean showed = false;
-//    private IronSourceBannerLayout bannerLayoutIS_;
+    private LinearLayout root
     private boolean working = true;
 
     private static final String TAG = "AdBlocksWebViewActivity";
@@ -131,8 +126,6 @@ public class WebViewPortrait extends AppCompatActivity implements WebViewPresent
     }
 
     private void ids() {
-//        frameLayout = findViewById(R.id.ad_frame_banner);
-        counter = findViewById(R.id.counter);
         root = findViewById(R.id.root);
         mWebView = (WebView) findViewById(R.id.webview);
         mCoordinatorLayout = findViewById(R.id.a_web_viewer_coordinator_layout);
@@ -151,70 +144,6 @@ public class WebViewPortrait extends AppCompatActivity implements WebViewPresent
         mWebView.setWebViewClient(new MyWebViewClient());
         mWebView.setDownloadListener(this);
         mWebView.setOnCreateContextMenuListener(this);
-
-        findViewById(R.id.close).setOnClickListener(v -> {
-            Animation hang_fall = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.zoom_in);
-            hang_fall.setAnimationListener(new Animation.AnimationListener() {
-                public void onAnimationEnd(Animation animation) {
-                    Config.startAdProgress(WebViewPortrait.this);
-                }
-                public void onAnimationRepeat(Animation animation) {}
-                public void onAnimationStart(Animation animation) {
-                }
-            });
-            v.startAnimation(hang_fall);
-        });
-
-        if (SplashActivity.activate_inter.equals("on")) {
-            countdown();
-        }else if (SplashActivity.activate_banner.equals("on")){
-            countdown();
-        }
-
-    }
-
-    private void countdown() {
-        int seconds = SplashActivity.ad_game_minutes * 60 * 1000;
-        new CountDownTimer(seconds, 1000) {
-            public void onTick(long millisUntilFinished) {
-                counter.setText("" + millisUntilFinished / 1000);
-                if (millisUntilFinished / 1000 < 11){
-                    counter.setVisibility(View.VISIBLE);
-                }
-//                if(!showed){
-//                    if (millisUntilFinished / 1000 < 21){
-//                        if (SplashActivity.activate_banner.equals("on")) {
-//                            frameLayout.setVisibility(View.VISIBLE);
-//                            showed = true;
-//                            if (SplashActivity.network.equals("is")) {
-//                                if (bannerLayoutIS_!=null){
-//                                    IronSource.destroyBanner(bannerLayoutIS_);
-//                                }
-//                                isBanner_(WebViewPortrait.this, frameLayout);
-//                            }else{
-//                                new Ads().banner(WebViewPortrait.this, frameLayout);
-//                            }
-//                        }else{
-//                            frameLayout.setVisibility(View.GONE);
-//                        }
-//                    }
-//                }
-            }
-            public void onFinish() {
-//                if (bannerLayoutIS_!=null){
-//                    IronSource.destroyBanner(bannerLayoutIS_);
-//                }
-//                frameLayout.setVisibility(View.GONE);
-//                showed = false;
-                counter.setVisibility(View.GONE);
-                if (working) {
-                    if (SplashActivity.activate_inter.equals("on"))
-                        ads.interstitial(WebViewPortrait.this, false, () -> countdown());
-                    else
-                        countdown();
-                }
-            }
-        }.start();
     }
 
     @Override
@@ -701,39 +630,10 @@ public class WebViewPortrait extends AppCompatActivity implements WebViewPresent
     @Override
     public void finish() {
         working = false;
-//        if (bannerLayoutIS_!=null){
-//            IronSource.destroyBanner(bannerLayoutIS_);
-//        }
         super.finish();
         overridePendingTransitionExit();
     }
 
-//    private void isBanner_(Activity activity, FrameLayout ad_frame){
-//        bannerLayoutIS_ = IronSource.createBanner(activity, ISBannerSize.BANNER);
-//        bannerLayoutIS_.setBannerListener(new BannerListener() {
-//            @Override
-//            public void onBannerAdLoaded() {
-//                LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(
-//                        LinearLayout.LayoutParams.MATCH_PARENT,
-//                        LinearLayout.LayoutParams.WRAP_CONTENT);
-//                ad_frame.removeAllViews();
-//                ad_frame.addView(bannerLayoutIS_, 0, layoutParams);
-//            }
-//            @Override
-//            public void onBannerAdLoadFailed(IronSourceError error) {
-//                ad_frame.setVisibility(View.GONE);
-//            }
-//            @Override
-//            public void onBannerAdClicked() {}
-//            @Override
-//            public void onBannerAdScreenPresented() {}
-//            @Override
-//            public void onBannerAdScreenDismissed() { }
-//            @Override
-//            public void onBannerAdLeftApplication() {}
-//        });
-//        IronSource.loadBanner(bannerLayoutIS_, SplashActivity.iron_ban);
-//    }
 
     @Override
     public void onBackPressed() {}
