@@ -1,4 +1,11 @@
 {
+    "config" : [
+        {
+            "ad_int_interval" : 3,
+            "ad_native_interval" : 3
+        }
+    ],
+    
     "stories" : [
         { "image" : "https://i.pinimg.com/736x/ea/16/e8/ea16e81d80091b5f3430fbf77bbf2862.jpg" },
         { "image" : "https://i.pinimg.com/originals/08/86/6c/08866cadc82641c039dd48fcc8896663.jpg" },
