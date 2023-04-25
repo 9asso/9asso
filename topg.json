@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_ads" : "false",
             "one_signal" : "1a9130d2-ad74-4678-a2dc-45a6e2a8498a",
-            "network" : "admob",
+            "network" : "max",
 
             "iron_source_key": "198419b25",
             
@@ -17,9 +17,9 @@
             "yandex_native" : "R-M-1820435-2",
             "yandex_int" : "R-M-1820435-3",
 
-            "max_ban" : "",
-            "max_native" : "",
-            "max_int" : "",
+            "max_ban" : "6ca13d4c16f2f6a7",
+            "max_native" : "ad7727095d6ba632",
+            "max_int" : "ab2d15807ac9a2c1",
 
             "fan_ban": "",
             "fan_native": "",
