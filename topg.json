@@ -1,0 +1,61 @@
+{
+    "config" : [
+        {   
+            "int_interval" : 2,
+            "activate_ads" : "true",
+            "custom_ads" : "false",
+            "one_signal" : "1a9130d2-ad74-4678-a2dc-45a6e2a8498a",
+            "network" : "admob",
+
+            "iron_source_key": "198419b25",
+            
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "",
+            "max_native" : "",
+            "max_int" : "",
+
+            "fan_ban": "",
+            "fan_native": "",
+            "fan_int": "",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow",
+            "update_ico": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg=s512-rw"
+        }
+    ],
+    
+    "custom" : [
+        {
+            "name" : "Pikashow Movies and TV Shows",
+            "title" : "TV Shows",
+            "description" : "Download: Pikashow Movies  for Movies and TV Shows",
+            "ico2" : "https://parnamg.info/uploads/2022/07/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-pikashow-apk-download-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF.webp",
+            "ico" : "https://play-lh.googleusercontent.com/A58YUmZvDyAGNUxu7yRFqQhyib2Ee2g__kFlSmqhwp1I5MeV4p-2PLziLlCC8TF2qgM=w300",
+            "link" : "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow"
+        }
+    ],
+    
+    "friends" : [
+        {
+            "name" : "Instale e abra o Shopee",
+            "ico" : "https://affise-media-service-prod.s3.eu-central-1.amazonaws.com/affise-media-service-prod/offers/959/18116/3024971614.200x200.png",
+            "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647",
+            "cat" : "Shopping",
+            "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
+        },
+        {
+            "name" : "Scorpio TV - Pobreflix Movie",
+            "ico" : "https://play-lh.googleusercontent.com/ZvUTSIZ5zhZr6VzPBAYJSMbyt0TZHY7suQ1fWVOkLZKzsuBVSbiahk9hHAMpN6gINto=s96-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ks.apps.scorpio",
+            "cat" : "Movies",
+            "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
+        }
+    ]
+}
