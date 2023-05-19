@@ -2,7 +2,7 @@
     "ads" : [
         {
             "demo" : "true",
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_ads_game" : "true",
             "activate_banner" : "on",
             "activate_inter" : "on",
