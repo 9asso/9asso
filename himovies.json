@@ -38,12 +38,12 @@
             "fan_int": "216030951031492_216032741031313",
             "fan_rewarded": "216030951031492_216033077697946",
             
-            "activate_update_app": "false",
+            "activate_update_app": "true",
             "update_title": "A new update is available, please update the app now!",
             "update_link": "https://play.google.com/store/apps/details?id=com.frogmind.badland",
             "update_ico": "https://play-lh.googleusercontent.com/M6ApeE_fvuWhwZ1HzAEoD0IRfqDST7IfmpqvcJFiU7rqRoPX88Pehah9lprTG3j8IQ",
             
-            "activate_maintenance_app": "true",
+            "activate_maintenance_app": "false",
             "maintenance_title": "The app is under maintenance, please come back later.",
             "maintenance_ico": "https://www.pngitem.com/pimgs/b/18-187067_steemit-png.png"
         }
