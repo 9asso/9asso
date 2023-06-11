@@ -68,14 +68,28 @@
             "name" : "Perfect Cream: Icing Cake Game",
             "ico" : "https://play-lh.googleusercontent.com/EGoZod6tDrBOCoZA26emNbmrfLMo2IY-r2x8SEHBukTjoD1elgUd7patG_LzFk4ALA",
             "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647",
-            "cat" : "Shopping App",
+            "cat" : "Game",
             "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
         },
         {
             "name" : "Hair Tattoo: Barber Shop Game",
             "ico" : "https://play-lh.googleusercontent.com/q964jumImoesiSFgsuL7e5maY3ydaBNAr01Wl9kCwnryg0b1iy5iKf99m3UxfL7Ztdc",
             "link" : "https://members.cpabuild.com/redirect/offerPreview.php?id=53321647",
-            "cat" : "Shopping App",
+            "cat" : "Game",
+            "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
+        },
+        {
+            "name" : "Poppo live",
+            "ico" : "https://play-lh.googleusercontent.com/vOzAawKeilRUXKXAshoI1L6A3LeMhRA_uOHbNRKNIJh1ZDuIgPLpAwKdW4b5o0Iaw_E",
+            "link" : "https://play.google.com/store/apps/details?id=com.baitu.qingshu",
+            "cat" : "Live App",
+            "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
+        },
+        {
+            "name" : "purp - Make new friends",
+            "ico" : "https://play-lh.googleusercontent.com/ZSDiLoqQ5S9mqgXIWRv_XJAN33ZwMFLXiK7BWPY9aK5RbzVM82YCLIMa8196a4WI1Rk",
+            "link" : "https://play.google.com/store/apps/details?id=com.hubolabs.hubo",
+            "cat" : "Social App",
             "video" : "https://lh3.googleusercontent.com/iFgXQz7goEf9KL1AIDp7XRkazKq6u6mNIJYuwmN5s4ELFlAcRMGdH0jymZWLFAecT7M=h310"
         }
     ]
