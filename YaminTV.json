@@ -5,6 +5,8 @@
             "activate_ads" : "false",
             "activate_update" : "true",
             "int_interval" : 2,
+            
+            "onesignal" : "############",
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
