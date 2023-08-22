@@ -1,0 +1,206 @@
+{
+    "config" : [
+        {
+            "network" : "admob",
+            "activate_ads" : "false",
+            "activate_update" : "true",
+            "int_interval" : 2,
+
+            "groups_box_active" : "off",
+            "groups_matches_active" : "off",
+            "groups_news_active" : "on",
+            "iptv_active" : "on",
+            "live_active" : "on",
+
+            "admob_ban": "ca-app-pub-6641936473178471/3742245713",
+            "admob_native" : "ca-app-pub-6641936473178471/5985265673",
+            "admob_int": "ca-app-pub-6641936473178471/4931166316",
+
+            "fan_ban": "886964966006374_886965492672988",
+            "fan_native": "886964966006374_886965646006306",
+            "fan_int": "886964966006374_886965572672980",
+
+            "iron_key": "17417cb4d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
+            "max_ban" : "dd0f88dd14411c62",
+            "max_native" : "eef6439a662ed026",
+            "max_int" : "eddf2f9b6cb263ee",
+          
+            "update_title" : "We are in maintenance status! Please Update.",
+            "update_img" : "https://downloadr2.apkmirror.com/wp-content/uploads/2023/07/51/64ba6f737c7ed_com.rovio.blast.png",
+            "update_link" : "https://www.youtube.com/"
+        }
+    ],
+
+
+
+
+    "servers" : [
+
+                       {
+            "title" : "AD Sport 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/430",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport 2",
+            "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
+            "link" : "http://173.212.193.243:8080/mo3ad2L/mo3ad2L/431",
+            "type" : "iptv"
+        },
+                               {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54847.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport Premium 2",
+            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54848.ts",
+            "type" : "iptv"
+        },
+
+       {
+            "title" : "beIN SPORTS 1 PREMIUM",
+            "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/9.ts",
+            "type" : "iptv"
+        },
+        {
+            "title" : "beIN SPORTS 2 PREMIUM",
+            "ico" : "http://ultra-pro.live:8080/kokylive/jcxOeskEpp/153268",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/8.ts",
+            "type" : "iptv"
+        },
+       {
+            "title" : "beIN SPORTS 3 PREMIUM",
+            "ico" : "https://i.postimg.cc/85PJYs6t/p-3.png",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/11.ts",
+            "type" : "iptv"
+        },
+        {
+            "title" : "beIN SPORTS HD1",
+            "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/1.ts",
+            "type" : "iptv"
+        },
+        {
+            "title" : "beIN SPORTS HD2",
+            "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/2.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS HD3",
+            "ico" : "https://i.postimg.cc/9XgTvP1T/3.png",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3.ts",
+            "type" : "iptv"
+        },
+        
+                {
+            "title" : "beIN SPORTS HD4",
+            "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/4.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS HD5",
+            "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49383.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS HD6",
+            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49384.ts",
+            "type" : "iptv"
+        },
+       {
+            "title" : "beIN SPORTS HD7",
+            "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
+            "link" : "http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49385.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 1 HD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280132",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 2 HD",
+            "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
+            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280137",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 3 HD",
+            "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
+            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280134",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 4 HD",
+            "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
+            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280133",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 5 HD",
+            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
+            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280135",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC EXTRA 1 HD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/280136",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC EXTRA 2 HD",
+            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
+            "link" : "http://gamsgo.cyou:8080/kodicologne/48e237edd2/281462",
+            "type" : "iptv"
+        }
+
+    ],
+    "news" : [
+        {
+            "title" : "Música",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
+            "referral" : ""
+        },
+        {
+            "title" : "Entretenimiento",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
+            "referral" : ""
+        },
+                {
+            "title" : "Educación",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
+            "referral" : ""
+        },
+                {
+            "title" : "Familia",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
+            "referral" : ""
+        },
+                {
+            "title" : "DEPORTES",
+            "img" : "https://i.postimg.cc/265gH5r1/YASS.png",
+            "details" : ".",
+            "referral" : ""
+        }
+
+    ]
+
+}
