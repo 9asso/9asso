@@ -3,7 +3,7 @@
         {
             "network" : "admob",
             "activate_ads" : "false",
-            "activate_update" : "true",
+            "activate_update" : "false",
             "int_interval" : 2,
             
             "onesignal" : "############",
