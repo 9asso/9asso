@@ -1,0 +1,486 @@
+{
+    "ads": {
+        
+             "comment": [
+            "Amazing Game I really love it Only Up: Parkour 3D 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
+        ],   
+        
+            "rate_comment": true,
+            
+            "update_app" : false,
+            "activate_ads" : false,
+            "activate_banner" : "on",
+            "activate_inter" : "on",
+            
+            "network" : "is",
+
+            "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
+            
+            "unity_game_id": "5103649",
+            
+            "admob_ban": "ca-app-pub-1108939190579661/2396265296",
+            "admob_native" : "ca-app-pub-1108939190579661/9288976700",
+            "admob_int": "ca-app-pub-1108939190579661/7045956741",
+            "admob_rewarded": "ca-app-pub-1108939190579661/4228221711",
+
+            "yandex_ban" : "R-M-2193310-1",
+            "yandex_native" : "R-M-2193310-2",
+            "yandex_int" : "R-M-2193310-3",
+            "yandex_rewarded" : "R-M-2193310-4",
+
+            "max_ban": "99d4f671d759a027",
+            "max_native": "87fe4f265186625d",
+            "max_int": "19d629eb2d4327ec",
+
+            "fan_ban": "2455443151275039_2455451371274217",
+            "fan_native": "2455443151275039_2455451584607529",
+            "fan_int": "2455443151275039_2455451494607538",
+            "fan_rewarded": "2455443151275039_2455451697940851",
+
+            "iron_key": "1767d8925",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+            "iron_rewarded" : "DefaultRewardedVideo",
+
+            "ad_image" : "https://i.pinimg.com/originals/06/9d/61/069d617dca720be2d65014963515d28e.gif",
+            "ad_link" : "https://www.kimp.io/gif-marketing/",
+
+            "ad_score_amount" : 1,
+            "ad_game_minutes" : 1,
+            "ad_int_interval" : 4,
+            "score_rating_reward" : 3,
+
+            "orientation": "landscape",
+
+            "game_name": "Parkour 3D",
+            "game_cover": "https://gamingbeasts.com/wp-content/uploads/2022/02/Parkour-Simulator.jpg",
+            "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
+            "game_link": "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
+
+            "update_app_activate": "false",
+            "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
+            
+            "show_notfication":true,
+            "Counter": "360000",
+            "notification_title": "check our new game",
+            "notification_text": "woow PARKOUR game is here try it now",
+            "showrate" : true
+
+        
+            
+        },
+
+
+    "more" : [
+        {
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+
+    "slider" : [
+        {
+            "image" : "https://cdna.artstation.com/p/assets/images/images/030/699/992/large/tanya-grineva-194004-3-147-142240-dragons-wa9.jpg?1601391035",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://papyrus.greenville.edu/wp-content/uploads/2017/02/rsz_clash-royale.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://mytona.com/images/imperavi/article/5e05f667acdc3.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://i.ytimg.com/vi/5zZmpYzvAYA/maxresdefault.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        }
+    ],
+
+    "menu" : [
+        {
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "Guide",
+            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "bg" : "#3F51B5"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Food Delivery",
+            "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
+            "bg" : "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
+        },
+        {
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "Spinner",
+            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Quiz",
+            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Puzzle",
+            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Questions",
+            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "Wallpapers",
+            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "true",
+            "active_reward" : "false",
+            "name" : "Scratch",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "bg" : "#ffffff"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "Games",
+            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
+            "bg" : "#673AB7"
+        },
+        {
+            "active" : "false",
+            "active_reward" : "false",
+            "name" : "More",
+            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "bg" : "#3F51B5"
+        }
+    ],
+
+    "wallpapers" : [
+        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/04/30/choochoocharles-1651280665421.jpg?width=300&crop=1%3A1%2Csmart" },
+        { "name" : "", "img" : "https://howtomarketagame.com/wp-content/uploads/2021/10/charles.jpg" },
+        { "name" : "", "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/ss_656dfa0b4bcf63fa5e4b58b9c08a246fcca7fa4a.1920x1080.jpg?t=1670596632" },
+        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/10/11/choochoocharlesreleasedate-blog-1665505211360.jpg" },
+        { "name" : "", "img" : "https://img.game-news24.com/2022/12/The-train-that-could-have-a-horror-movie-about-the-nightmarish-train-Choo-Choo-Charles-upset-critics-but-ordinary-gamers-liked-the-movie.jpeg" },
+        { "name" : "", "img" : "https://assets-prd.ignimgs.com/2022/12/07/choo-choo-blog-1670428170370.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/ThTzq_luTMI/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://www.pcinvasion.com/wp-content/uploads/2022/12/Choo-Choo-Charles-Hell-Charles-1.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/nJZo9VZe2Uo/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://cdn.vox-cdn.com/thumbor/lJ7gMQCCcBE94Pv2En6OYe6vLgo=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/23614967/CCC_Front.png" },
+        { "name" : "", "img" : "https://www.fiz-x.com/wp-content/uploads/2022/10/CHOO-CHOO-CHARLES.jpg" },
+        { "name" : "", "img" : "https://media.sketchfab.com/models/dff1c7791bec429f9c0de08318bae5ed/thumbnails/84f791b5834244a092d87cf19ee37863/00898c357dc649c18d0574ff55bcfddc.jpeg" },
+        { "name" : "", "img" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c0af0a76f2d10c56b6e257a51d863380.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/d-VIuto5--w/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/thumbnail/1200x900/quality/100/-1633195811532.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/1W1MYXltUPU/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
+        { "name" : "", "img" : "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/6924887c8c041245c25d5cf69c6d1255.png" }
+    ],
+    
+    "games" : [
+        {
+            "name" : "Parkour 3D Version 1",
+            "ico" : "https://img.gamedistribution.com/e53b05dab94c40fe846248ad3b649403-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Parkour 3D Version 2",
+            "ico" : "https://img.gamemonetize.com/3tj57noae20pm40sbmmyvus36i9e8pyw/512x384.jpg",
+            "link" : "https://html5.gamemonetize.co/3tj57noae20pm40sbmmyvus36i9e8pyw/",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Parkour 3D Version 3",
+            "ico" : "https://static.vseigru.net/flash/all/1/igra-parkur-podem-po-stenam.jpg",
+            "link" : "https://g.vseigru.net/10/igra-parkur-podem-po-stenam/",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Parkour 3D Version 4",
+            "ico" : "https://img.gamemonetize.com/xh98tvj7zzzfin2gq13xg7du9296cw69/512x384.jpg",
+            "link" : "https://g.vseigru.net/10/igra-vektor/",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        },{
+            "name" : "Parkour 3D Version 5",
+            "ico" : "https://img.gamedistribution.com/1461d40bb77f48e6be72489959a1ac04-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/1461d40bb77f48e6be72489959a1ac04/?gd_sdk_referrer_url=https%3A%2F%2Fwww.friv5online.com%2Fparkour-block-3d",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Parkour 3D Version 6",
+            "ico" : "https://i.ytimg.com/vi/au6PkbBl6nU/hqdefault.jpg",
+            "link" : "https://html5.gamemonetize.co/d2y749nelps2wyd8f4hu4wosqal5aysi/",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Parkour 3D Version 7",
+            "ico" : "https://img.gamedistribution.com/fb1b8ae8c1174bc9bc79735d8072c15b-512x384.jpeg",
+            "link" : "https://html5.gamedistribution.com/fb1b8ae8c1174bc9bc79735d8072c15b/?gd_sdk_referrer_url=https%3A%2F%2Fwww.friv5online.com%2Fbackflip-maniac",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        { "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
+        { "img" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
+        { "img" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
+        { "img" : "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg" },
+        { "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
+    ],
+
+    "quizquestions" : [
+        {
+            "questions" :
+            [
+                { "question" : "q1" },
+                { "question" : "q2" },
+                { "question" : "q3" }
+            ],
+            "answers" :
+            [
+                { "answer" : "a1" },
+                { "answer" : "a2" },
+                { "answer" : "a3" }
+            ],
+            "options" :
+            [
+                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
+                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
+                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
+            ]
+        }
+    ],
+
+    "quizimages" : [
+        {
+            "images" :
+            [
+                { "image" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
+                { "image" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
+                { "image" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
+                { "image" : "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg" },
+                { "image" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
+            ],
+            "answers" :
+            [
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" },
+                { "answer" : "true" }
+            ],
+            "options" :
+            [
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
+                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
+            ]
+        }
+    ],
+    
+    "chaptera" : [
+        {
+            "title" : "Navigate a massive play area in your trusty old engine.",
+            "img" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/extras/Travel.gif"
+        }
+    ],
+
+    "chapterb" : [
+        {
+            "title" : "Walkthrough - Main Missions",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a5/20221208014722_1.jpg?width=1024"
+        },
+        {
+            "title" : "Tutorial",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/5/53/20221206194340_1.jpg?width=1024"
+        },
+        {
+            "title" : "South Mine Spelunking",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/33/20221206212146_1.jpg?width=1024"
+        },
+        {
+            "title" : "North Mine Mystery",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a5/20221208014722_1.jpg?width=1024"
+        },
+        {
+            "title" : "A Mine, or A Tomb?",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/9/9f/20221208032312_1.jpg?width=1024"
+        },
+        {
+            "title" : "Destruction Project",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/ac/20221208025711_1.jpg?width=1024"
+        },
+        {
+            "title" : "Finish It",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/7/7d/20221208151755_1.jpg?width=1024"
+        },
+        {
+            "title" : "Ending",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/5/53/20221208151823_1.jpg?width=1024"
+        }
+    ],
+
+    "chapterc" : [
+        {
+            "title" : "Weapon Missions",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/e/ec/20221208150853_1.jpg?width=1024"
+        },
+        {
+            "title" : "Bug Spray Blaze: How to Get The Flamethrower",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a3/20221206214323_1.jpg?width=1024"
+        },
+        {
+            "title" : "Mob Camp Infiltration: How to Get The Gatling Gun",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/31/20221208024422_1.jpg?width=1024"
+        },
+        {
+            "title" : "Bunker Break-In: How to Get The Rocket Launcher",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/aa/20221207014156_1.jpg?width=1024"
+        }
+    ],
+
+    "chapterd" : [
+        {
+            "title" : "Side Missions",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/3d/20221207012413_1.jpg?width=1024"
+        },
+        {
+            "title" : "Fetch Scrap From Candice",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/1/10/20221206203224_1.jpg?width=1024"
+        },
+        {
+            "title" : "Lock Pick O'Clock",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/f/f8/20221206205428_1.jpg?width=1024"
+        },
+        {
+            "title" : "Swamp Swimmer",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/0/07/20221206214547_1.jpg?width=1024"
+        },
+        {
+            "title" : "Loot Tony's Barn",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/d/d7/20221206220930_1.jpg?width=1024"
+        },
+        {
+            "title" : "The Pickles Mission",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/e/e8/20221206234714_1.jpg?width=1024"
+        },
+        {
+            "title" : "Canyon Caper",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/b/bf/20221207000819_1.jpg?width=1024"
+        },
+        {
+            "title" : "Light in The Dark",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/8/89/20221208020646_1.jpg?width=1024"
+        },
+        {
+            "title" : "Journal Return",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/0/04/20221207010924_1.jpg?width=1024"
+        },
+        {
+            "title" : "Boulder Field Pages",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/3d/20221207012413_1.jpg?width=1024"
+        },
+        {
+            "title" : "Cloud Climber",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/33/20221208034236_1.jpg?width=1024"
+        }
+    ],
+
+    "chaptere" : [
+        {
+            "title" : "Paint Can Guide: How to Find Every Paint Can For Your Train",
+            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/1/1e/20221213010317_1.jpg?width=1024"
+        }
+    ]
+}
