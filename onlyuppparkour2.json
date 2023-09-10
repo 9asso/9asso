@@ -52,8 +52,8 @@
 
             "orientation": "landscape",
 
-            "game_name": "Parkour 3D",
-            "game_cover": "https://gamingbeasts.com/wp-content/uploads/2022/02/Parkour-Simulator.jpg",
+            "game_name": "Skibidi Clash 2D",
+            "game_cover": "https://img.gamedistribution.com/d2b4c36f20d846b0b227da8eff9610ea-512x340.jpeg",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
 
@@ -63,7 +63,7 @@
             "show_notfication":true,
             "Counter": "360000",
             "notification_title": "check our new game",
-            "notification_text": "woow PARKOUR game is here try it now",
+            "notification_text": "woow Skibidi game is here try it now",
             "showrate" : true
 
         
