@@ -12,16 +12,16 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "is",
+            "network" : "admob",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
             "unity_game_id": "5103649",
             
-            "admob_ban": "ca-app-pub-1108939190579661/2396265296",
-            "admob_native" : "ca-app-pub-1108939190579661/9288976700",
-            "admob_int": "ca-app-pub-1108939190579661/7045956741",
-            "admob_rewarded": "ca-app-pub-1108939190579661/4228221711",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
 
             "yandex_ban" : "R-M-2193310-1",
             "yandex_native" : "R-M-2193310-2",
