@@ -1,9 +1,9 @@
 {
     "ads": {
         
-             "comment": [
-            "Amazing Game I really love it Only Up: Parkour 3D 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
-        ],   
+            "comment": [
+                "Amazing Game I really love it Only Up: Parkour 3D 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
+            ],
         
             "rate_comment": true,
             
@@ -65,12 +65,29 @@
             "notification_title": "check our new game",
             "notification_text": "woow Skibidi game is here try it now",
             "showrate" : true
-
-        
-            
         },
 
-
+    "kira" : [
+        {
+            "title" : "Yes or No?",
+            "images" : {
+                { "img" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
+                { "img" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
+                { "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
+            }
+        },
+        {
+            "title" : "Choose your skin.",
+            "images" : {
+                { "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
+                { "img" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
+                { "img" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
+                { "img" : "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg" },
+                { "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
+            }
+        }
+    ],
+    
     "more" : [
         {
             "name" : "Yes or No?! - Food Pranks",
