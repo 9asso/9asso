@@ -69,12 +69,16 @@
 
     "kira" : [
         {
-            "title" : "Yes or No?",
-            "images" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg,https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg,https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg"
+            "title" : "What is your favourite?",
+            "images" : "https://play-lh.googleusercontent.com/M-Bv6QcDkX_jqIzhULWkv94YJXGpCQGGXHDTnGdARtqsqeNF-IpMG96UmcTCEfqha6M,https://play-lh.googleusercontent.com/4d4Ly3cJZ4QbtTpi1_CZ0cNH4XukLZydcqHrwKv5hq6LjU5SbnL22PRWWrY0SmOrWU0,https://play-lh.googleusercontent.com/TCoRwa_x1b7RQxZIQLdTzTu7gBFc72a8XDBASrIq_cWYGKRMK25BEMK3S21pATNH2TAd,https://play-lh.googleusercontent.com/LemONqmn7v5RUxyyTkJBNNVSz1RmPz__L3yOhz8hcINdYqhxVdMT1gE5ekxB3uALgRw"
         },
         {
-            "title" : "Choose your skin.",
-            "images" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg,https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg,https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg,https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg,https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg"
+            "title" : "Pick your weapon",
+            "images" : "https://play-lh.googleusercontent.com/oBP43Sj9Ak_tlsxm8Mx_fINoGGcaK_jYVUYOwW6w4ImUfHuTvBr1E2qqgzM4EGJcJT4,https://play-lh.googleusercontent.com/333npUBDXTxj3sbTab1-AXwxMHMteWel8ovyThYDjbDuW1d92S0MiW2PiFckemlQ1A,https://play-lh.googleusercontent.com/f1x7JfENtsdOqtm5tEzXVzmUv7VkQzPc6P4A_rwYat91pP2nt0CZUx0-2EWS9B23EYI,https://play-lh.googleusercontent.com/xZQ3yLQX8Dm_P0Uv08ryzorCtB2S1SxL1h_UsVtJM8HRqcWoJivDb_YzI2draB76Ayc"
+        },
+        {
+            "title" : "Choose your skin",
+            "images" : "https://play-lh.googleusercontent.com/485K8VtLe3qdNmcnLioHRKAW4r-KurS3FjhgaKTqtyaO5VP4a_6yjClAEIwSKMUmWtGd,https://play-lh.googleusercontent.com/0GEcMglto0DhegrlYbz4KNgaK2O-uwYfajMygOervIwTNR-xsuRmXcdY89sUO2FGbw"
         }
     ],
     
