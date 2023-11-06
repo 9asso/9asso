@@ -70,21 +70,11 @@
     "kira" : [
         {
             "title" : "Yes or No?",
-            "images" : [
-                "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg",
-                "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg", 
-                "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg"
-            ]
+            "images" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg,https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg,https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg"
         },
         {
             "title" : "Choose your skin.",
-            "images" : [
-                "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg",
-                "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg",
-                "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg",
-                "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg",
-                "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg"
-            ]
+            "images" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg,https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg,https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg,https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg,https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg"
         }
     ],
     
